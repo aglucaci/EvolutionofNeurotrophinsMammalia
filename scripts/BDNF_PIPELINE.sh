@@ -9,9 +9,10 @@ echo "## Starting Mammalia pipeline: "$now
 echo ""
 
 # User configuration here
-BASEDIR=/home/aglucaci/EvolutionOfNeurotrophins/MAMMALIA/EvolutionOfNeurotrophins
+#BASEDIR=/home/aglucaci/EvolutionOfNeurotrophins/MAMMALIA/EvolutionOfNeurotrophins
+BASEDIR=/home/aglucaci/EvolutionofNeurotrophinsMammalia
 cd $BASEDIR
-mkdir -p "$BASEDIR"/analysis
+mkdir -p "$BASEDIR"/results
 
 # ######################################################
 # Software Requirements -- create separate scripts, requirements.txt
@@ -45,11 +46,18 @@ else
     #echo $PYTHON -W ignore $CODON_SCRIPT $BASEDIR/data/refseq_protein.fasta $BASEDIR/data/refseq_transcript.fasta $BASEDIR/analysis/BDNF_codons.fasta > $BASEDIR/scripts/codon.py_errors.txt
     echo $PYTHON -W ignore $CODON_SCRIPT $BASEDIR/data/refseq_protein.fasta $BASEDIR/data/refseq_transcript.fasta $OUTPUT_CODONS_PY
     $PYTHON -W ignore $CODON_SCRIPT $BASEDIR/data/refseq_protein.fasta $BASEDIR/data/refseq_transcript.fasta $OUTPUT_CODONS_PY
+	
+    sed 's/,//g' -i $OUTPUT_CODONS_PY
+    sed 's, mRNA,,g' -i $OUTPUT_CODONS_PY
+    sed 's,PREDICTED: ,,g' -i $OUTPUT_CODONS_PY
+    sed 's, brain derived neurotrophic factor,,g' -i $OUTPUT_CODONS_PY
+    sed 's,(Bdnf),,g' -i $OUTPUT_CODONS_PY
+    sed 's,(BDNF),,g' -i $OUTPUT_CODONS_PY
+    sed 's,  transcript variant,,g' -i $OUTPUT_CODONS_PY
+    sed 's, ,-,g' -i $OUTPUT_CODONS_PY
 fi
 
-sed 's, ,_,g' -i $OUTPUT_CODONS_PY
-
-exit 0
+#exit 0
 # ######################################################
 # Parse out the Human sequence
 # ######################################################
@@ -86,13 +94,13 @@ exit 0
 # ######################################################
 # Multiple sequence alignment (MACSEv2)
 # ######################################################
-#GENE=$BASEDIR"/analysis/BDNF_codons_renamed.fasta"
-GENE=$BASEDIR"/analysis/BDNF_codons.fasta"
-#OUTPUT_CODON_MSA=$GENE"_codon_macse.fas"
+GENE=$BASEDIR"/results/BDNF_codons.fasta"
 OUTPUT_CODON_MSA=$GENE"_codon_aln.fas"
+mkdir -p $BASEDIR/scripts/STDOUT
+
 if [ -s $OUTPUT_CODON_MSA ];
 then
-   echo "# Codon msa  (MACSE) already exists"
+   echo "# Codon MSA with (MACSEv2) already exists"
    jobid_1=0
 else
    #echo "qsub -V -l nodes=1:ppn=8 -q epyc -o $BASEDIR/scripts/STDOUT -e $BASEDIR/script/STDOUT $MACSE_SCRIPT -v FASTA=$GENE"
@@ -105,15 +113,15 @@ fi
 # ######################################################
 # Tamura-Nei 1993 (TN93) Distance
 # ######################################################
-GENE=$BASEDIR"/analysis/BDNF_codons_renamed.fasta"
+GENE=$BASEDIR"/results/BDNF_codons_renamed.fasta"
 OUTPUT_TN93=$OUTPUT_CODON_MSA".dst"
 
 if [ -s $OUTPUT_TN93 ];
 then
    echo "# TN93 calculation already exists"
 else
-#   echo qsub -V -W depend=afterok:$jobid_1 -l nodes=1:ppn=2 -q epyc $TN93_SCRIPT -v FASTA=$OUTPUT_CODON_MSA
-   cmd="qsub -V -W depend=afterok:$jobid_1 -l nodes=1:ppn=2 -q epyc $TN93_SCRIPT -v FASTA=$OUTPUT_CODON_MSA"
+#   echo qsub -V -W depend=afterok:$jobid_1 -l nodes=1:ppn=2 -o $BASEDIR/scripts/STDOUT -e $BASEDIR/script/STDOUT -q epyc $TN93_SCRIPT -v FASTA=$OUTPUT_CODON_MSA
+   cmd="qsub -V -W depend=afterok:$jobid_1 -l nodes=1:ppn=2 -o $BASEDIR/scripts/STDOUT -e $BASEDIR/script/STDOUT -q epyc $TN93_SCRIPT -v FASTA=$OUTPUT_CODON_MSA"
    echo $cmd
    jobid_2=$($cmd | cut -d' ' -f3)
 fi
