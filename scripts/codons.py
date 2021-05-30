@@ -29,20 +29,20 @@ import argparse
 #TRANSCRIPTS = "human_kinase_cDNA.fasta"
 #OUTPUT = "human_kinase_cDNA_codons.fasta"
 
-#PROTEIN = sys.argv[1]
-#TRANSCRIPTS = sys.argv[2]
-#OUTPUT = sys.argv[3]
+PROTEIN_FASTA = sys.argv[1]
+TRANSCRIPTS_FASTA = sys.argv[2]
+OUTPUT = sys.argv[3]
 
-PROTEIN_FASTA = "refseq_protein.fasta"
-TRANSCRIPTS_FASTA = "refseq_transcript.fasta"
-OUTPUT = "codons_6.fasta"
+#PROTEIN_FASTA = "refseq_protein.fasta"
+#TRANSCRIPTS_FASTA = "refseq_transcript.fasta"
+#OUTPUT = "codons_6.fasta"
 results = []
 no_match = []
+
 #arguments = argparse.ArgumentParser(description='Combine alignments into a single file, adding a reference sequence as well')
 #arguments.add_argument('-i', '--input',            help = 'FASTA file to process',                         required = True, type = str )
 #arguments.add_argument('-o', '--output',           help = 'Directory for output and working files',        required = True, type = str)
 #settings = arguments.parse_args()
-
 
 # =============================================================================
 # Helper functions
