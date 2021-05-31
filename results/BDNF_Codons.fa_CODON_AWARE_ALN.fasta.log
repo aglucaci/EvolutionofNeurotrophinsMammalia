@@ -1,0 +1,903 @@
+IQ-TREE multicore version 1.6.6 for Linux 64-bit built Jul  1 2018
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    n7 (AVX2, FMA3, 125 GB RAM)
+Command: /opt/iqtree/iqtree-1.6.6-Linux/bin/iqtree -s /home/aglucaci/EvolutionofNeurotrophinsMammalia/results/BDNF_Codons.fa_CODON_AWARE_ALN.fasta -nt 16 -alrt 1000 -bb 1000
+Seed:    610764 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon May 31 13:23:31 2021
+Kernel:  AVX+FMA - 16 threads (96 CPU cores detected)
+
+Reading alignment file /home/aglucaci/EvolutionofNeurotrophinsMammalia/results/BDNF_Codons.fa_CODON_AWARE_ALN.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+WARNING: 2 sites contain only gaps or ambiguous characters.
+Alignment has 265 sequences with 1419 columns, 808 distinct patterns
+627 parsimony-informative, 126 singleton sites, 666 constant sites
+                                                                                                                                     Gap/Ambiguity  Composition  p-value
+   1  XM_040284582_1_PREDICTED_Ictidomys_tridecemlineatus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_7               45.24%    passed     85.67%
+   2  XM_038429434_1_PREDICTED_Canis_lupus_familiaris_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_7                   46.09%    passed     82.69%
+   3  XM_037999556_1_PREDICTED_Chlorocebus_sabaeus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_3                      46.09%    passed     52.04%
+   4  XM_037999558_1_PREDICTED_Chlorocebus_sabaeus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X5_mRNA_1                      41.65%    passed     62.58%
+   5  XM_037742083_1_PREDICTED_Cebus_imitator_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X7_mRNA_5                           47.57%    passed     75.63%
+   6  XM_037742078_1_PREDICTED_Cebus_imitator_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                           45.88%    passed     71.40%
+   7  XM_037522543_1_PREDICTED_Talpa_occidentalis_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X6_mRNA_5                       47.99%    passed     83.76%
+   8  XM_037522538_1_PREDICTED_Talpa_occidentalis_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                       46.30%    passed     88.90%
+   9  XM_037204438_1_PREDICTED_Peromyscus_leucopus_brain_derived_neurotrophic_factor_Bdnf_mRNA_1                                            31.29%    passed     36.23%
+  10  XM_037146035_1_PREDICTED_Artibeus_jamaicensis_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                           47.78%    passed     98.84%
+  11  XM_037040421_1_PREDICTED_Sturnira_hondurensis_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                           47.78%    passed     92.91%
+  12  XM_017667617_2_PREDICTED_Manis_javanica_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_3                           47.78%    passed     77.02%
+  13  XM_017667612_2_PREDICTED_Manis_javanica_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                           46.09%    passed     78.38%
+  14  XM_036879082_1_PREDICTED_Manis_pentadactyla_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_3                       47.78%    passed     84.03%
+  15  XM_036879079_1_PREDICTED_Manis_pentadactyla_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                       46.09%    passed     85.45%
+  16  XM_036862555_1_PREDICTED_Balaenoptera_musculus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_3                    47.57%    passed     55.15%
+  17  XM_036862552_1_PREDICTED_Balaenoptera_musculus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                    45.88%    passed     62.31%
+  18  XM_036763631_1_PREDICTED_Trichosurus_vulpecula_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                          47.99%    passed     54.10%
+  19  XM_036427681_1_PREDICTED_Pipistrellus_kuhlii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X6_mRNA_4                      45.24%    failed      2.17%
+  20  XM_036427677_1_PREDICTED_Pipistrellus_kuhlii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                      45.88%    failed      3.36%
+  21  XM_036325692_1_PREDICTED_Myotis_myotis_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_2                            45.45%    passed     64.79%
+  22  XM_036427676_1_PREDICTED_Pipistrellus_kuhlii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                      34.04%    passed     28.24%
+  23  XM_036258711_1_PREDICTED_Molossus_molossus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X5_mRNA_3                        47.78%    passed     94.13%
+  24  XM_036109499_1_PREDICTED_Halichoerus_grypus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X6_mRNA_9                       47.78%    passed     89.85%
+  25  XM_036258707_1_PREDICTED_Molossus_molossus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                        30.87%    passed     62.05%
+  26  XM_036258708_1_PREDICTED_Molossus_molossus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                        46.09%    passed     96.25%
+  27  XM_036109493_1_PREDICTED_Halichoerus_grypus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_2                       46.09%    passed     85.37%
+  28  XM_036029164_1_PREDICTED_Phyllostomus_discolor_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_3                    47.78%    passed     94.82%
+  29  XM_035436972_1_PREDICTED_Cricetulus_griseus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X5_mRNA_2                       47.57%    passed     77.81%
+  30  XM_035436971_1_PREDICTED_Cricetulus_griseus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X2_mRNA_1                       42.07%    passed     92.79%
+  31  XM_035262282_1_PREDICTED_Callithrix_jacchus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X10_mRNA_6                      41.44%    passed     64.83%
+  32  XM_035262277_1_PREDICTED_Callithrix_jacchus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_1                       45.88%    passed     51.82%
+  33  XM_035262276_1_PREDICTED_Callithrix_jacchus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_1                       43.41%    passed     33.23%
+  34  XM_035012477_1_PREDICTED_Mirounga_leonina_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                               47.78%    passed     98.60%
+  35  XM_034932318_1_PREDICTED_Pan_paniscus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X9_mRNA_6                             30.44%    passed     18.74%
+  36  XM_008955894_3_PREDICTED_Pan_paniscus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                             37.00%    passed     80.30%
+  37  XM_008955892_2_PREDICTED_Pan_paniscus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                             35.73%    passed     79.09%
+  38  XM_033764060_1_PREDICTED_Fukomys_damarensis_brain_derived_neurotrophic_factor_Bdnf_mRNA_1                                             48.56%    failed      0.00%
+  39  XM_033205479_1_PREDICTED_Trachypithecus_francoisi_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_3                 47.78%    passed     65.61%
+  40  XM_033205475_1_PREDICTED_Trachypithecus_francoisi_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                 35.73%    passed     87.79%
+  41  XM_033118944_1_PREDICTED_Rhinolophus_ferrumequinum_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                      30.66%    passed     11.80%
+  42  XM_032903866_1_PREDICTED_Rattus_rattus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X6_mRNA_3                            47.36%    passed     99.35%
+  43  XM_032903863_1_PREDICTED_Rattus_rattus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X3_mRNA_1                            45.67%    passed     98.71%
+  44  XM_032903862_1_PREDICTED_Rattus_rattus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X2_mRNA_1                            41.86%    passed     98.18%
+  45  XM_032903861_1_PREDICTED_Rattus_rattus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_1                            23.47%    failed      2.16%
+  46  XM_032641486_1_PREDICTED_Phocoena_sinus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X6_mRNA_3                           49.05%    passed     36.25%
+  47  XM_032641485_1_PREDICTED_Phocoena_sinus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X5_mRNA_4                           47.57%    passed     50.76%
+  48  XM_032641483_1_PREDICTED_Phocoena_sinus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_1                           48.63%    passed     39.87%
+  49  XM_032414183_1_PREDICTED_Phoca_vitulina_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X6_mRNA_1                           31.50%    passed     39.45%
+  50  XM_032283699_1_PREDICTED_Sapajus_apella_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X8_mRNA_6                           41.44%    passed     77.20%
+  51  XM_032283692_1_PREDICTED_Sapajus_apella_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                           45.88%    passed     74.50%
+  52  XM_032283691_1_PREDICTED_Sapajus_apella_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                           35.52%    passed     90.22%
+  53  XM_032166375_1_PREDICTED_Hylobates_moloch_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X6_mRNA_3                         47.78%    passed     55.37%
+  54  XM_032166372_1_PREDICTED_Hylobates_moloch_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_1                         46.09%    passed     51.86%
+  55  XM_032166371_1_PREDICTED_Hylobates_moloch_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                         44.61%    passed     49.21%
+  56  XM_032166370_1_PREDICTED_Hylobates_moloch_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                         35.73%    passed     91.21%
+  57  XM_031944161_1_PREDICTED_Sarcophilus_harrisii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X5_mRNA_4                     47.99%    passed     98.86%
+  58  XM_031944159_1_PREDICTED_Sarcophilus_harrisii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                     46.30%    passed     98.76%
+  59  XM_031681074_1_PREDICTED_Vicugna_pacos_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                                  30.73%    passed     46.54%
+  60  XM_031459858_1_PREDICTED_Camelus_dromedarius_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                            30.73%    passed     48.94%
+  61  XM_031371319_1_PREDICTED_Mastomys_coucha_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X7_mRNA_4                          47.36%    passed     88.47%
+  62  XM_031371315_1_PREDICTED_Mastomys_coucha_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X3_mRNA_1                          45.67%    passed     86.73%
+  63  XM_031371314_1_PREDICTED_Mastomys_coucha_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X2_mRNA_1                          41.65%    passed     97.28%
+  64  XM_031371313_1_PREDICTED_Mastomys_coucha_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_1                          30.44%    passed     33.85%
+  65  XM_031025067_1_PREDICTED_Leptonychotes_weddellii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_3                  47.78%    passed     89.18%
+  66  XM_031025064_1_PREDICTED_Leptonychotes_weddellii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                  46.09%    passed     84.77%
+  67  XM_004050856_3_PREDICTED_Gorilla_gorilla_gorilla_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X8_mRNA_6                  47.78%    passed     64.21%
+  68  XM_004050848_3_PREDICTED_Gorilla_gorilla_gorilla_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                  35.73%    passed     87.52%
+  69  XM_010374533_2_PREDICTED_Rhinopithecus_roxellana_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X6_mRNA_4                  47.78%    passed     64.09%
+  70  XM_030864836_1_PREDICTED_Globicephala_melas_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_12                      47.57%    passed     51.22%
+  71  XM_030864833_1_PREDICTED_Globicephala_melas_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_3                       45.88%    passed     58.04%
+  72  XM_003254348_2_PREDICTED_Nomascus_leucogenys_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X5_mRNA_2                      47.78%    passed     59.89%
+  73  XM_030333208_1_PREDICTED_Lynx_canadensis_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                                22.90%    failed      0.01%
+  74  XM_029957158_1_PREDICTED_Suricata_suricatta_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X7_mRNA_6                       47.78%    passed     97.87%
+  75  XM_029957152_1_PREDICTED_Suricata_suricatta_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                       46.09%    passed     97.76%
+  76  XM_029555093_1_PREDICTED_Nannospalax_galili_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X2_mRNA_4                       42.49%    passed     83.83%
+  77  XM_029555090_1_PREDICTED_Nannospalax_galili_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_1                       42.14%    passed     93.37%
+  78  XM_029207944_1_PREDICTED_Monodon_monoceros_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X9_mRNA_7                        47.57%    passed     53.35%
+  79  XM_029207935_1_PREDICTED_Monodon_monoceros_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                        45.88%    passed     60.35%
+  80  XM_029207934_1_PREDICTED_Monodon_monoceros_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                        41.44%    passed     62.64%
+  81  XM_029059318_2_PREDICTED_Ornithorhynchus_anatinus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                 47.99%    passed     99.81%
+  82  XM_029059317_2_PREDICTED_Ornithorhynchus_anatinus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                 46.30%    passed     99.64%
+  83  XM_028501150_1_PREDICTED_Physeter_catodon_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X17_mRNA_7                        48.20%    passed     58.82%
+  84  XM_028501149_1_PREDICTED_Physeter_catodon_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X15_mRNA_1                        48.63%    passed     68.60%
+  85  XM_028501147_1_PREDICTED_Physeter_catodon_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X14_mRNA_1                        48.20%    passed     54.79%
+  86  XM_028501146_1_PREDICTED_Physeter_catodon_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X13_mRNA_7                        47.99%    passed     46.93%
+  87  XM_028117709_1_PREDICTED_Eumetopias_jubatus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_2                       47.78%    passed     88.72%
+  88  XM_015101092_2_PREDICTED_Ovis_aries_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_2                               47.15%    passed     37.73%
+  89  XM_027936602_1_PREDICTED_Marmota_flaviventris_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X6_mRNA_4                     47.78%    passed     87.63%
+  90  XM_027936597_1_PREDICTED_Marmota_flaviventris_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X2_mRNA_1                     46.09%    passed     89.50%
+  91  XM_027936596_1_PREDICTED_Marmota_flaviventris_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_1                     41.65%    passed     76.03%
+  92  XM_027852579_1_PREDICTED_Vombatus_ursinus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_2                         47.99%    passed     47.08%
+  93  XM_027577811_2_PREDICTED_Zalophus_californianus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X5_mRNA_4                   47.78%    passed     85.96%
+  94  XM_027577807_1_PREDICTED_Zalophus_californianus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                   46.09%    passed     83.05%
+  95  XM_027562791_1_PREDICTED_Bos_indicus_x_Bos_taurus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X5_mRNA_6                 47.15%    passed     47.28%
+  96  XM_027562786_1_PREDICTED_Bos_indicus_x_Bos_taurus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_2                 45.45%    passed     55.63%
+  97  XM_026512203_1_PREDICTED_Ursus_arctos_horribilis_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                        47.78%    passed     99.10%
+  98  XM_026412276_1_PREDICTED_Urocitellus_parryii_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X5_mRNA_3                      47.85%    passed     90.36%
+  99  XM_026412273_1_PREDICTED_Urocitellus_parryii_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X2_mRNA_1                      46.16%    passed     91.57%
+ 100  XM_026412272_1_PREDICTED_Urocitellus_parryii_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_1                      41.72%    passed     83.43%
+ 101  XM_026018602_1_PREDICTED_Vulpes_vulpes_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_2                            47.78%    passed     76.79%
+ 102  XM_026018600_1_PREDICTED_Vulpes_vulpes_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                            46.09%    passed     78.68%
+ 103  XM_025879326_1_PREDICTED_Callorhinus_ursinus_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                            47.78%    passed     90.94%
+ 104  XM_025358316_1_PREDICTED_Theropithecus_gelada_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X11_mRNA_17                   47.78%    passed     60.20%
+ 105  XM_025358308_1_PREDICTED_Theropithecus_gelada_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_5                     46.09%    passed     55.78%
+ 106  XM_025358307_1_PREDICTED_Theropithecus_gelada_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_1                     44.61%    passed     52.45%
+ 107  XM_025358306_1_PREDICTED_Theropithecus_gelada_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_3                     41.65%    passed     64.00%
+ 108  XM_025358305_1_PREDICTED_Theropithecus_gelada_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_2                     35.73%    passed     93.89%
+ 109  XM_024558906_1_PREDICTED_Desmodus_rotundus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_3                        47.78%    passed     93.27%
+ 110  XM_024558903_1_PREDICTED_Desmodus_rotundus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                        46.09%    passed     89.70%
+ 111  XM_023756376_1_PREDICTED_Myotis_lucifugus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_2                         47.78%    passed     59.08%
+ 112  XM_023756374_1_PREDICTED_Myotis_lucifugus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                         46.09%    passed     65.78%
+ 113  XM_023704229_1_PREDICTED_Octodon_degus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X7_mRNA_6                            47.36%    failed      1.22%
+ 114  XM_023562965_1_PREDICTED_Cavia_porcellus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X6_mRNA_5                          46.09%    failed      0.14%
+ 115  XM_023230358_2_PREDICTED_Piliocolobus_tephrosceles_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X11_mRNA_17              47.78%    passed     60.20%
+ 116  XM_023230348_2_PREDICTED_Piliocolobus_tephrosceles_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_2                46.09%    passed     55.78%
+ 117  XM_023230347_2_PREDICTED_Piliocolobus_tephrosceles_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_2                41.65%    passed     64.00%
+ 118  XM_022583733_1_PREDICTED_Delphinapterus_leucas_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                          30.80%    passed     78.84%
+ 119  XM_021708951_1_PREDICTED_Carlito_syrichta_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_4                         47.78%    passed     98.60%
+ 120  XM_021685881_1_PREDICTED_Neomonachus_schauinslandi_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_2                47.78%    passed     92.54%
+ 121  XM_021151236_2_PREDICTED_Mus_caroli_brain_derived_neurotrophic_factor_Bdnf_mRNA_1                                                     23.54%    passed      8.52%
+ 122  XM_021192829_2_PREDICTED_Mus_pahari_brain_derived_neurotrophic_factor_Bdnf_mRNA_1                                                     23.54%    passed     23.57%
+ 123  XM_005654686_3_PREDICTED_Sus_scrofa_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X5_mRNA_4                               46.72%    passed     84.61%
+ 124  XM_020977980_1_PREDICTED_Phascolarctos_cinereus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X5_mRNA_3                   47.99%    passed     88.49%
+ 125  XM_020977977_1_PREDICTED_Phascolarctos_cinereus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                   46.30%    passed     89.72%
+ 126  XM_020977976_1_PREDICTED_Phascolarctos_cinereus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                   42.07%    passed     34.48%
+ 127  XM_020903261_1_PREDICTED_Odocoileus_virginianus_texanus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X6_mRNA_5           47.15%    passed     20.57%
+ 128  XM_020903256_1_PREDICTED_Odocoileus_virginianus_texanus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1           45.45%    passed     25.67%
+ 129  XM_020286540_1_PREDICTED_Microcebus_murinus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X7_mRNA_4                       47.78%    passed     87.89%
+ 130  XM_020286536_1_PREDICTED_Microcebus_murinus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_1                       46.09%    passed     84.18%
+ 131  XM_020286535_1_PREDICTED_Microcebus_murinus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                       41.65%    passed     78.37%
+ 132  XM_020286534_1_PREDICTED_Microcebus_murinus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                       35.52%    passed     64.33%
+ 133  XM_020177315_1_PREDICTED_Castor_canadensis_brain_derived_neurotrophic_factor_Bdnf_mRNA_1                                              31.36%    passed     45.84%
+ 134  XM_019974522_1_PREDICTED_Bos_indicus_brain_derived_neurotrophic_factor_BDNF_mRNA_7                                                    29.60%    passed     21.04%
+ 135  XM_011226480_3_PREDICTED_Ailuropoda_melanoleuca_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                         32.21%    passed     74.63%
+ 136  XM_019650723_1_PREDICTED_Hipposideros_armiger_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X6_mRNA_4                     47.57%    passed     95.74%
+ 137  XM_019650719_1_PREDICTED_Hipposideros_armiger_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                     45.88%    passed     96.87%
+ 138  XM_019650718_1_PREDICTED_Hipposideros_armiger_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                     44.61%    passed     94.91%
+ 139  XM_005690027_2_PREDICTED_Capra_hircus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X5_mRNA_4                             47.15%    passed     42.50%
+ 140  XM_005690025_2_PREDICTED_Capra_hircus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                             45.45%    passed     50.24%
+ 141  XM_017948538_3_PREDICTED_Papio_anubis_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                             43.62%    passed     37.64%
+ 142  XM_017858808_1_PREDICTED_Rhinopithecus_bieti_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_2                      47.78%    passed     67.68%
+ 143  XM_017858806_1_PREDICTED_Rhinopithecus_bieti_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                      46.09%    passed     62.56%
+ 144  XM_017858805_1_PREDICTED_Rhinopithecus_bieti_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                      35.73%    passed     90.32%
+ 145  XM_017538722_1_PREDICTED_Cebus_imitator_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                           35.52%    passed     87.15%
+ 146  XM_016194242_1_PREDICTED_Erinaceus_europaeus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_2                      47.99%    passed     67.46%
+ 147  XM_016206158_1_PREDICTED_Miniopterus_natalensis_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X5_mRNA_3                   47.78%    failed      0.42%
+ 148  XM_016206155_1_PREDICTED_Miniopterus_natalensis_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                   46.09%    failed      0.64%
+ 149  XM_016206154_1_PREDICTED_Miniopterus_natalensis_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                   44.82%    failed      1.32%
+ 150  XM_006907990_2_PREDICTED_Pteropus_alecto_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_3                          47.78%    passed     99.46%
+ 151  XM_015544869_1_PREDICTED_Panthera_tigris_altaica_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                        47.78%    passed     95.83%
+ 152  XM_015476489_1_PREDICTED_Marmota_marmota_marmota_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X7_mRNA_4                  47.78%    passed     88.80%
+ 153  XM_015476463_1_PREDICTED_Marmota_marmota_marmota_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X3_mRNA_1                  46.09%    passed     91.06%
+ 154  XM_015476457_1_PREDICTED_Marmota_marmota_marmota_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X2_mRNA_1                  41.65%    passed     84.16%
+ 155  XM_015476449_1_PREDICTED_Marmota_marmota_marmota_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_1                  31.50%    passed     31.90%
+ 156  XM_015114598_2_PREDICTED_Macaca_mulatta_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_3                           35.73%    passed     92.81%
+ 157  XM_014831463_1_PREDICTED_Equus_asinus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_2                             47.78%    passed     56.49%
+ 158  XM_004418545_2_PREDICTED_Ceratotherium_simum_simum_brain_derived_neurotrophic_factor_LOC101398458_transcript_variant_X4_mRNA_3        47.78%    passed     91.08%
+ 159  XM_014591303_2_PREDICTED_Tupaia_chinensis_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                               47.78%    passed     89.87%
+ 160  XM_014545223_1_PREDICTED_Myotis_brandtii_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                                30.94%    passed     62.52%
+ 161  NM_001316310_1_Mus_musculus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_12_mRNA_11                                      47.36%    passed     95.62%
+ 162  XM_013503015_1_PREDICTED_Chinchilla_lanigera_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X5_mRNA_4                      47.36%    failed      1.02%
+ 163  XM_013147262_2_PREDICTED_Cavia_porcellus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_1                          44.40%    failed      0.25%
+ 164  XM_004851582_2_PREDICTED_Heterocephalus_glaber_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X3_mRNA_2                    46.51%    failed      0.95%
+ 165  XM_013019596_1_PREDICTED_Dipodomys_ordii_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X4_mRNA_2                          47.78%    passed     78.83%
+ 166  XM_013019593_1_PREDICTED_Dipodomys_ordii_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X2_mRNA_1                          46.09%    passed     86.48%
+ 167  XM_013019592_1_PREDICTED_Dipodomys_ordii_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_1                          31.08%    passed     60.41%
+ 168  XM_012814047_1_PREDICTED_Otolemur_garnettii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_8                       30.44%    passed     15.89%
+ 169  XM_012725669_1_PREDICTED_Condylura_cristata_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X6_mRNA_5                       47.99%    passed     95.03%
+ 170  XM_012649569_1_PREDICTED_Propithecus_coquereli_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X13_mRNA_9                   47.78%    passed     81.37%
+ 171  XM_012649559_1_PREDICTED_Propithecus_coquereli_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_1                    46.09%    passed     77.79%
+ 172  XM_012649558_1_PREDICTED_Propithecus_coquereli_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_1                    41.65%    passed     80.96%
+ 173  XM_012814097_1_PREDICTED_Otolemur_garnettii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_1                       45.88%    passed     79.29%
+ 174  XM_012649557_1_PREDICTED_Propithecus_coquereli_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                    35.73%    passed     73.83%
+ 175  XM_012649556_1_PREDICTED_Propithecus_coquereli_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                    30.66%    passed     35.17%
+ 176  XM_012523604_2_PREDICTED_Dasypus_novemcinctus_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                           47.78%    passed     81.52%
+ 177  XM_012452246_1_PREDICTED_Aotus_nancymaae_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X8_mRNA_4                          47.57%    passed     72.64%
+ 178  XM_012452242_1_PREDICTED_Aotus_nancymaae_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_1                          45.88%    passed     68.76%
+ 179  XM_012452238_1_PREDICTED_Aotus_nancymaae_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                          35.52%    passed     87.79%
+ 180  XM_011710304_1_PREDICTED_Macaca_nemestrina_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                        45.24%    passed     44.99%
+ 181  XM_012031705_1_PREDICTED_Cercocebus_atys_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X8_mRNA_4                          47.78%    passed     54.76%
+ 182  XM_012031700_1_PREDICTED_Cercocebus_atys_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_1                          46.09%    passed     49.96%
+ 183  XM_012031699_1_PREDICTED_Cercocebus_atys_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_1                          44.61%    passed     47.35%
+ 184  XM_012452241_1_PREDICTED_Aotus_nancymaae_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_1                          44.40%    passed     61.18%
+ 185  XM_012031697_1_PREDICTED_Cercocebus_atys_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                          35.73%    passed     90.24%
+ 186  XM_011964726_1_PREDICTED_Mandrillus_leucophaeus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X11_mRNA_6                  47.78%    passed     59.56%
+ 187  XM_011964719_1_PREDICTED_Mandrillus_leucophaeus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X5_mRNA_1                   46.09%    passed     54.73%
+ 188  XM_011964718_1_PREDICTED_Mandrillus_leucophaeus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_1                   44.61%    passed     51.44%
+ 189  XM_011964717_1_PREDICTED_Mandrillus_leucophaeus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_1                   41.65%    passed     59.24%
+ 190  XM_012452239_1_PREDICTED_Aotus_nancymaae_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                          43.41%    passed     48.12%
+ 191  XM_012031698_1_PREDICTED_Cercocebus_atys_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                          42.71%    passed     48.72%
+ 192  XM_011964716_1_PREDICTED_Mandrillus_leucophaeus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                   37.21%    passed     27.86%
+ 193  XM_011936307_1_PREDICTED_Colobus_angolensis_palliatus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1             35.73%    passed     93.95%
+ 194  NM_001143810_2_Homo_sapiens_brain_derived_neurotrophic_factor_BDNF_transcript_variant_18_mRNA_15                                      30.44%    passed     11.42%
+ 195  XM_011362569_2_PREDICTED_Pteropus_vampyrus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_3                        47.78%    passed     99.77%
+ 196  XM_011964715_1_PREDICTED_Mandrillus_leucophaeus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                   35.73%    passed     92.09%
+ 197  XM_011936308_1_PREDICTED_Colobus_angolensis_palliatus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1             37.49%    passed     31.20%
+ 198  XM_003919940_3_PREDICTED_Saimiri_boliviensis_boliviensis_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_5          45.88%    passed     78.48%
+ 199  XM_010374530_2_PREDICTED_Rhinopithecus_roxellana_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                  46.09%    passed     59.31%
+ 200  XM_010964743_1_PREDICTED_Camelus_bactrianus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_3                       46.09%    passed     27.34%
+ 201  XM_010374529_2_PREDICTED_Rhinopithecus_roxellana_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                  35.73%    passed     92.35%
+ 202  XM_009246514_2_PREDICTED_Pongo_abelii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X5_mRNA_2                             47.78%    passed     55.37%
+ 203  XM_009246512_2_PREDICTED_Pongo_abelii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_1                             46.09%    passed     51.86%
+ 204  XM_009246511_2_PREDICTED_Pongo_abelii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                             44.61%    passed     49.21%
+ 205  XM_008955891_2_PREDICTED_Pan_paniscus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_1                             46.09%    passed     63.73%
+ 206  XM_009007854_3_PREDICTED_Callithrix_jacchus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                       30.66%    passed     23.59%
+ 207  XM_008851139_2_PREDICTED_Nannospalax_galili_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X3_mRNA_1                       45.88%    passed     76.63%
+ 208  XM_008686880_1_PREDICTED_Ursus_maritimus_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                                32.21%    passed     85.34%
+ 209  XM_008584222_1_PREDICTED_Galeopterus_variegatus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X8_mRNA_6                   47.78%    passed     37.95%
+ 210  XM_008584174_1_PREDICTED_Galeopterus_variegatus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                   46.09%    passed     35.61%
+ 211  XM_008584165_1_PREDICTED_Galeopterus_variegatus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                   35.73%    passed     97.73%
+ 212  XM_008148950_2_PREDICTED_Eptesicus_fuscus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_2                         47.78%    passed     20.87%
+ 213  XM_008148947_2_PREDICTED_Eptesicus_fuscus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                         45.45%    passed     18.64%
+ 214  XM_008148948_2_PREDICTED_Eptesicus_fuscus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                         46.09%    passed     25.11%
+ 215  XM_008522868_1_PREDICTED_Equus_przewalskii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_3                        47.78%    passed     60.24%
+ 216  XM_008003703_2_PREDICTED_Chlorocebus_sabaeus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                      35.73%    passed     94.61%
+ 217  XM_007653168_4_PREDICTED_Cricetulus_griseus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X3_mRNA_1                       45.88%    passed     74.69%
+ 218  XM_007951952_1_PREDICTED_Orycteropus_afer_afer_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_5                    46.09%    passed     59.52%
+ 219  XM_007653166_4_PREDICTED_Cricetulus_griseus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_1                       41.86%    passed     92.06%
+ 220  XM_007497203_2_PREDICTED_Monodelphis_domestica_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X8_mRNA_6                    47.99%    passed     36.16%
+ 221  XM_007497196_2_PREDICTED_Monodelphis_domestica_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                    42.49%    passed     19.78%
+ 222  XM_007461686_1_PREDICTED_Lipotes_vexillifer_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X8_mRNA_7                       47.57%    passed     68.78%
+ 223  XM_007461679_1_PREDICTED_Lipotes_vexillifer_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                       45.88%    passed     75.44%
+ 224  XM_007180994_2_PREDICTED_Balaenoptera_acutorostrata_scammoni_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_3      47.57%    passed     57.67%
+ 225  XM_007180991_1_PREDICTED_Balaenoptera_acutorostrata_scammoni_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1      45.88%    passed     64.29%
+ 226  XM_006068006_2_PREDICTED_Bubalus_bubalis_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_2                          47.15%    passed     57.68%
+ 227  XM_007113739_2_PREDICTED_Physeter_catodon_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X18_mRNA_2                        47.57%    passed     72.77%
+ 228  XM_006907988_2_PREDICTED_Pteropus_alecto_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                          46.09%    passed     98.83%
+ 229  XM_006864854_1_PREDICTED_Chrysochloris_asiatica_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_3                   47.78%    passed     37.56%
+ 230  XM_006864851_1_PREDICTED_Chrysochloris_asiatica_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                   46.09%    passed     34.93%
+ 231  XM_006883717_1_PREDICTED_Elephantulus_edwardii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X5_mRNA_4                    47.78%    passed     71.84%
+ 232  XM_006883713_1_PREDICTED_Elephantulus_edwardii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                    46.09%    passed     69.44%
+ 233  XM_006753950_2_PREDICTED_Myotis_davidii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_2                           47.78%    passed     59.81%
+ 234  XM_006753948_2_PREDICTED_Myotis_davidii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                           46.09%    passed     61.76%
+ 235  XM_006234684_4_PREDICTED_Rattus_norvegicus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_9                        41.65%    passed     97.18%
+ 236  XM_006195083_3_PREDICTED_Camelus_ferus_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                                  30.73%    passed     43.04%
+ 237  XM_005654684_3_PREDICTED_Sus_scrofa_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                               45.03%    passed     87.39%
+ 238  XM_005401751_2_PREDICTED_Chinchilla_lanigera_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_1                      45.67%    failed      1.65%
+ 239  XM_004851581_3_PREDICTED_Heterocephalus_glaber_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_1                    44.82%    failed      1.24%
+ 240  XM_004682964_2_PREDICTED_Condylura_cristata_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                       46.30%    passed     95.45%
+ 241  XM_004644113_2_PREDICTED_Octodon_degus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_1                            45.67%    failed      2.12%
+ 242  XM_004708254_2_PREDICTED_Echinops_telfairi_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                        47.57%    passed     82.04%
+ 243  XM_004708253_2_PREDICTED_Echinops_telfairi_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                        45.88%    passed     87.60%
+ 244  XM_004660850_2_PREDICTED_Jaculus_jaculus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X5_mRNA_4                          47.78%    passed     91.64%
+ 245  XM_004660846_2_PREDICTED_Jaculus_jaculus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_X1_mRNA_1                          46.09%    passed     91.74%
+ 246  XM_004585443_3_PREDICTED_Ochotona_princeps_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X4_mRNA_3                        47.78%    passed     38.86%
+ 247  XM_004585440_1_PREDICTED_Ochotona_princeps_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                        46.09%    passed     36.33%
+ 248  XM_004408654_2_PREDICTED_Odobenus_rosmarus_divergens_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_3              47.78%    passed     93.89%
+ 249  XM_004408653_1_PREDICTED_Odobenus_rosmarus_divergens_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1              46.09%    passed     90.76%
+ 250  XM_004369735_2_PREDICTED_Trichechus_manatus_latirostris_brain_derived_neurotrophic_factor_LOC101350169_transcript_variant_X2_mRNA_4   47.78%    passed     52.46%
+ 251  XM_004369733_1_PREDICTED_Trichechus_manatus_latirostris_brain_derived_neurotrophic_factor_LOC101350169_transcript_variant_X1_mRNA_1   46.09%    passed     50.45%
+ 252  XM_004050851_2_PREDICTED_Gorilla_gorilla_gorilla_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                  30.44%    passed     12.62%
+ 253  NM_012513_4_Rattus_norvegicus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_2_mRNA_1                                      45.67%    passed     99.24%
+ 254  NM_001270630_1_Rattus_norvegicus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_1_mRNA_1                                   23.47%    failed      1.49%
+ 255  XM_003781199_2_PREDICTED_Otolemur_garnettii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_1                       41.44%    passed     51.22%
+ 256  XM_003781198_1_PREDICTED_Otolemur_garnettii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                       35.52%    passed     53.76%
+ 257  XM_003254349_2_PREDICTED_Nomascus_leucogenys_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                      44.61%    passed     52.66%
+ 258  XM_003254347_2_PREDICTED_Nomascus_leucogenys_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                      35.73%    passed     91.80%
+ 259  XM_003254346_2_PREDICTED_Nomascus_leucogenys_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X3_mRNA_1                      46.09%    passed     55.98%
+ 260  XM_002821931_2_PREDICTED_Pongo_abelii_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X1_mRNA_1                             35.73%    passed     92.65%
+ 261  XM_002755152_4_PREDICTED_Callithrix_jacchus_brain_derived_neurotrophic_factor_BDNF_transcript_variant_X2_mRNA_1                       35.94%    passed     92.46%
+ 262  NM_007540_4_Mus_musculus_brain_derived_neurotrophic_factor_Bdnf_transcript_variant_1_mRNA_1                                           45.67%    passed     94.94%
+ 263  NM_001012441_1_Pan_troglodytes_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                                          47.78%    passed     65.46%
+ 264  NM_001009828_1_Felis_catus_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                                              47.78%    passed     99.19%
+ 265  NM_214259_2_Sus_scrofa_brain_derived_neurotrophic_factor_BDNF_mRNA_1                                                                  46.72%    passed     87.55%
+****  TOTAL                                                                                                                                 43.49%  17 sequences failed composition chi2 test (p-value<5%; df=3)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.079 seconds
+NOTE: ModelFinder requires 72 MB RAM!
+ModelFinder will test 286 DNA models (sample size: 1419) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+  1  JC            22744.871    527 46543.742    47168.334    49314.554
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+  2  JC+I          20789.936    528 42635.873    43263.540    45411.943
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+  3  JC+G4         19732.829    528 40521.658    41149.325    43297.728
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+  4  JC+I+G4       19658.907    529 40375.815    41006.568    43157.142
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+  5  JC+R2         20051.099    529 41160.198    41790.952    43941.526
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+  6  JC+R3         19714.937    531 40491.874    41128.834    43283.716
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+  7  JC+R4         19643.373    533 40352.746    40995.960    43155.105
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+  8  JC+R5         19636.533    535 40343.065    40992.578    43155.939
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 14  F81+F         22731.719    530 46523.438    47157.289    49310.023
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 15  F81+F+I       20780.227    531 42622.454    43259.414    45414.296
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 16  F81+F+G4      19723.551    531 40509.102    41146.063    43300.945
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 17  F81+F+I+G4    19650.136    532 40364.271    41004.353    43161.372
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 18  F81+F+R2      20051.895    532 41167.789    41807.871    43964.890
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 19  F81+F+R3      19705.930    534 40479.860    41126.217    43287.476
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 20  F81+F+R4      19637.173    536 40346.346    40999.026    43164.477
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 21  F81+F+R5      19629.438    538 40334.875    40993.925    43163.522
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 22  F81+F+R6      19628.222    540 40336.444    41001.911    43175.606
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 27  K2P           22376.218    528 45808.435    46436.103    48584.505
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 28  K2P+I         20401.346    529 41860.691    42491.445    44642.019
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 29  K2P+G4        19278.090    529 39614.180    40244.934    42395.508
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 30  K2P+I+G4      19204.263    530 39468.527    40102.378    42255.112
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 31  K2P+R2        19632.253    530 40324.505    40958.357    43111.090
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 32  K2P+R3        19269.967    532 39603.935    40244.016    42401.035
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 33  K2P+R4        19190.770    534 39449.540    40095.898    42257.156
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 34  K2P+R5        19182.330    536 39436.660    40089.341    42254.792
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 35  K2P+R6        19172.785    538 39421.571    40080.621    42250.218
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 36  K2P+R7        19172.649    540 39425.298    40090.765    42264.460
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 40  HKY+F         22376.219    531 45814.438    46451.399    48606.281
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 41  HKY+F+I       20395.728    532 41855.457    42495.538    44652.557
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 42  HKY+F+G4      19268.787    532 39601.575    40241.656    42398.675
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 43  HKY+F+I+G4    19198.583    533 39463.167    40106.380    42265.525
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 44  HKY+F+R2      19637.133    533 40340.265    40983.479    43142.624
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 45  HKY+F+R3      19259.513    535 39589.025    40238.538    42401.899
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 46  HKY+F+R4      19185.550    537 39445.100    40100.959    42268.489
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 47  HKY+F+R5      19176.813    539 39431.626    40093.879    42265.531
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 48  HKY+F+R6      19168.049    541 39418.098    40086.792    42262.518
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 49  HKY+F+R7      19167.996    543 39421.992    40097.174    42276.927
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 53  TNe           22368.896    529 45795.791    46426.545    48577.119
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 54  TNe+I         20399.234    530 41858.469    42492.320    44645.054
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 55  TNe+G4        19277.586    530 39615.171    40249.022    42401.756
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 56  TNe+I+G4      19202.346    531 39466.691    40103.652    42258.534
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 57  TNe+R2        19631.714    531 40325.428    40962.389    43117.271
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 58  TNe+R3        19269.281    533 39604.562    40247.775    42406.920
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 59  TNe+R4        19189.690    535 39449.379    40098.892    42262.253
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 60  TNe+R5        19180.728    537 39435.456    40091.316    42258.845
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 61  TNe+R6        19161.695    539 39401.390    40063.642    42235.294
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 62  TNe+R7        19161.417    541 39404.834    40073.527    42249.253
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 66  TN+F          22338.770    532 45741.539    46381.620    48538.640
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 67  TN+F+I        20372.421    533 41810.841    42454.055    44613.200
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 68  TN+F+G4       19251.160    533 39568.320    40211.534    42370.678
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 69  TN+F+I+G4     19173.498    534 39414.996    40061.354    42222.612
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 70  TN+F+R2       19621.440    534 40310.880    40957.237    43118.496
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 71  TN+F+R3       19240.887    536 39553.774    40206.454    42371.905
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 72  TN+F+R4       19164.739    538 39405.478    40064.528    42234.125
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 73  TN+F+R5       19154.233    540 39388.465    40053.932    42227.627
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 74  TN+F+R6       19140.334    542 39364.669    40036.600    42214.346
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 75  TN+F+R7       19139.022    544 39366.043    40044.487    42226.236
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 79  K3P           22373.764    529 45805.529    46436.282    48586.856
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 80  K3P+I         20398.725    530 41857.451    42491.302    44644.036
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 81  K3P+G4        19274.148    530 39608.295    40242.146    42394.880
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 82  K3P+I+G4      19200.230    531 39462.460    40099.421    42254.303
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 83  K3P+R2        19629.847    531 40321.693    40958.654    43113.536
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 84  K3P+R3        19266.215    533 39598.431    40241.644    42400.789
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 85  K3P+R4        19187.176    535 39444.352    40093.865    42257.226
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 86  K3P+R5        19178.390    537 39430.780    40086.639    42254.169
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 87  K3P+R6        19157.313    539 39392.626    40054.878    42226.530
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 88  K3P+R7        19156.658    541 39395.316    40064.010    42239.736
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 92  K3Pu+F        22373.123    532 45810.246    46450.327    48607.346
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 93  K3Pu+F+I      20392.475    533 41850.950    42494.164    44653.309
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 94  K3Pu+F+G4     19264.200    533 39594.400    40237.614    42396.759
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 95  K3Pu+F+I+G4   19194.090    534 39456.180    40102.538    42263.796
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 96  K3Pu+F+R2     19634.621    534 40337.241    40983.599    43144.857
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 97  K3Pu+F+R3     19254.959    536 39581.919    40234.599    42400.050
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 98  K3Pu+F+R4     19181.579    538 39439.158    40098.208    42267.804
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+ 99  K3Pu+F+R5     19172.544    540 39425.088    40090.555    42264.250
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+100  K3Pu+F+R6     19157.079    542 39398.157    40070.089    42247.835
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+101  K3Pu+F+R7     19155.409    544 39398.818    40077.262    42259.011
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+105  TPM2+F        22373.916    532 45811.832    46451.913    48608.932
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+106  TPM2+F+I      20393.816    533 41853.633    42496.846    44655.991
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+107  TPM2+F+G4     19268.690    533 39603.380    40246.594    42405.738
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+108  TPM2+F+I+G4   19197.628    534 39463.256    40109.614    42270.872
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+109  TPM2+F+R2     19632.956    534 40333.911    40980.269    43141.527
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+110  TPM2+F+R3     19259.492    536 39590.984    40243.664    42409.115
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+111  TPM2+F+R4     19185.038    538 39446.077    40105.127    42274.723
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+112  TPM2+F+R5     19175.859    540 39431.719    40097.186    42270.881
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+113  TPM2+F+R6     19161.381    542 39406.762    40078.694    42256.440
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+114  TPM2+F+R7     19160.144    544 39408.288    40086.732    42268.481
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+118  TPM2u+F       22373.950    532 45811.900    46451.982    48609.001
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+119  TPM2u+F+I     20393.832    533 41853.664    42496.878    44656.022
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+120  TPM2u+F+G4    19268.698    533 39603.395    40246.609    42405.754
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+121  TPM2u+F+I+G4  19197.638    534 39463.277    40109.634    42270.893
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+122  TPM2u+F+R2    19632.966    534 40333.932    40980.289    43141.547
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+123  TPM2u+F+R3    19259.500    536 39590.999    40243.680    42409.131
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+124  TPM2u+F+R4    19185.045    538 39446.091    40105.141    42274.737
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+125  TPM2u+F+R5    19175.802    540 39431.603    40097.070    42270.766
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+126  TPM2u+F+R6    19161.350    542 39406.699    40078.631    42256.377
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+127  TPM2u+F+R7    19160.020    544 39408.040    40086.484    42268.233
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+131  TPM3+F        22370.818    532 45805.636    46445.717    48602.736
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+132  TPM3+F+I      20392.970    533 41851.940    42495.154    44654.299
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+133  TPM3+F+G4     19261.549    533 39589.098    40232.311    42391.456
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+134  TPM3+F+I+G4   19190.151    534 39448.303    40094.660    42255.919
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+135  TPM3+F+R2     19620.558    534 40309.117    40955.474    43116.733
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+136  TPM3+F+R3     19253.452    536 39578.905    40231.585    42397.036
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+137  TPM3+F+R4     19175.847    538 39427.695    40086.745    42256.341
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+138  TPM3+F+R5     19167.711    540 39415.423    40080.890    42254.585
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+139  TPM3+F+R6     19151.032    542 39386.064    40057.995    42235.741
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+140  TPM3+F+R7     19149.457    544 39386.914    40065.357    42247.107
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+144  TPM3u+F       22370.861    532 45805.723    46445.804    48602.823
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+145  TPM3u+F+I     20392.988    533 41851.976    42495.189    44654.334
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+146  TPM3u+F+G4    19261.558    533 39589.115    40232.329    42391.473
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+147  TPM3u+F+I+G4  19190.173    534 39448.347    40094.704    42255.962
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+148  TPM3u+F+R2    19620.572    534 40309.143    40955.501    43116.759
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+149  TPM3u+F+R3    19253.463    536 39578.925    40231.605    42397.056
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+150  TPM3u+F+R4    19175.853    538 39427.707    40086.757    42256.354
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+151  TPM3u+F+R5    19167.715    540 39415.431    40080.898    42254.593
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+152  TPM3u+F+R6    19151.035    542 39386.070    40058.001    42235.747
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+153  TPM3u+F+R7    19149.412    544 39386.825    40065.269    42247.018
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+157  TIMe          22366.449    530 45792.898    46426.749    48579.483
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+158  TIMe+I        20396.680    531 41855.360    42492.321    44647.203
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+159  TIMe+G4       19273.675    531 39609.351    40246.311    42401.194
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+160  TIMe+I+G4     19198.319    532 39460.637    40100.718    42257.738
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+161  TIMe+R2       19629.370    532 40322.740    40962.821    43119.840
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+162  TIMe+R3       19265.564    534 39599.128    40245.486    42406.744
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+163  TIMe+R4       19186.100    536 39444.199    40096.880    42262.331
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+164  TIMe+R5       19176.901    538 39429.802    40088.852    42258.448
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+165  TIMe+R6       19155.698    540 39391.397    40056.864    42230.559
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+166  TIMe+R7       19154.784    542 39393.568    40065.499    42243.245
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+170  TIM+F         22335.778    533 45737.556    46380.770    48539.914
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+171  TIM+F+I       20369.245    534 41806.490    42452.847    44614.106
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+172  TIM+F+G4      19246.508    534 39561.015    40207.373    42368.631
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+173  TIM+F+I+G4    19168.964    535 39407.927    40057.440    42220.801
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+174  TIM+F+R2      19619.147    535 40308.293    40957.806    43121.167
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+175  TIM+F+R3      19236.489    537 39546.978    40202.837    42370.367
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+176  TIM+F+R4      19160.607    539 39399.214    40061.466    42233.118
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+177  TIM+F+R5      19149.988    541 39381.976    40050.669    42226.396
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+178  TIM+F+R6      19133.844    543 39353.689    40028.871    42208.624
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+179  TIM+F+R7      19132.202    545 39354.404    40036.122    42219.854
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+183  TIM2e         22364.284    530 45788.569    46422.420    48575.154
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+184  TIM2e+I       20395.158    531 41852.316    42489.276    44644.158
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+185  TIM2e+G4      19276.300    531 39614.600    40251.560    42406.442
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+186  TIM2e+I+G4    19199.044    532 39462.088    40102.169    42259.188
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+187  TIM2e+R2      19622.754    532 40309.509    40949.590    43106.609
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+188  TIM2e+R3      19268.559    534 39605.117    40251.475    42412.733
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+189  TIM2e+R4      19187.201    536 39446.401    40099.082    42264.533
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+190  TIM2e+R5      19177.565    538 39431.130    40090.180    42259.777
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+191  TIM2e+R6      19156.335    540 39392.669    40058.136    42231.832
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+192  TIM2e+R7      19155.884    542 39395.767    40067.699    42245.445
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+196  TIM2+F        22336.518    533 45739.035    46382.249    48541.393
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+197  TIM2+F+I      20370.524    534 41809.048    42455.405    44616.664
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+198  TIM2+F+G4     19251.080    534 39570.161    40216.518    42377.777
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+199  TIM2+F+I+G4   19172.150    535 39414.301    40063.814    42227.174
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+200  TIM2+F+R2     19617.136    535 40304.273    40953.786    43117.147
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+201  TIM2+F+R3     19240.806    537 39555.613    40211.472    42379.002
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+202  TIM2+F+R4     19163.926    539 39405.852    40068.104    42239.756
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+203  TIM2+F+R5     19153.062    541 39388.125    40056.818    42232.545
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+204  TIM2+F+R6     19137.916    543 39361.832    40037.014    42216.767
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+205  TIM2+F+R7     19136.679    545 39363.357    40045.075    42228.808
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+209  TIM3e         22354.583    530 45769.167    46403.018    48555.752
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+210  TIM3e+I       20389.918    531 41841.837    42478.797    44633.680
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+211  TIM3e+G4      19260.223    531 39582.446    40219.407    42374.289
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+212  TIM3e+I+G4    19183.372    532 39430.743    40070.825    42227.844
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+213  TIM3e+R2      19601.227    532 40266.455    40906.536    43063.555
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+214  TIM3e+R3      19254.090    534 39576.180    40222.538    42383.796
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+215  TIM3e+R4      19169.012    536 39410.025    40062.705    42228.156
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+216  TIM3e+R5      19161.019    538 39398.039    40057.089    42226.686
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+217  TIM3e+R6      19136.559    540 39353.118    40018.585    42192.280
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+218  TIM3e+R7      19135.843    542 39355.685    40027.617    42205.363
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+222  TIM3+F        22333.433    533 45732.865    46376.079    48535.223
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+223  TIM3+F+I      20369.779    534 41807.558    42453.915    44615.174
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+224  TIM3+F+G4     19244.204    534 39556.408    40202.765    42364.023
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+225  TIM3+F+I+G4   19166.788    535 39403.575    40053.088    42216.449
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+226  TIM3+F+R2     19603.785    535 40277.570    40927.083    43090.444
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+227  TIM3+F+R3     19235.105    537 39544.211    40200.070    42367.600
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+228  TIM3+F+R4     19156.111    539 39390.222    40052.475    42224.127
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+229  TIM3+F+R5     19146.637    541 39375.274    40043.967    42219.694
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+230  TIM3+F+R6     19129.204    543 39344.407    40019.589    42199.343
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+231  TIM3+F+R7     19127.920    545 39345.841    40027.559    42211.291
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+235  TVMe          22353.020    531 45768.039    46405.000    48559.882
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+236  TVMe+I        20383.772    532 41831.543    42471.624    44628.644
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+237  TVMe+G4       19254.711    532 39573.422    40213.503    42370.523
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+238  TVMe+I+G4     19177.047    533 39420.093    40063.307    42222.452
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+239  TVMe+R2       19589.596    533 40245.192    40888.405    43047.550
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+240  TVMe+R3       19249.504    535 39569.008    40218.521    42381.881
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+241  TVMe+R4       19163.210    537 39400.420    40056.279    42223.809
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+242  TVMe+R5       19154.789    539 39387.578    40049.830    42221.482
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+243  TVMe+R6       19122.265    541 39326.529    39995.222    42170.949
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+244  TVMe+R7       19121.718    543 39329.435    40004.617    42184.371
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+248  TVM+F         22363.940    534 45795.880    46442.237    48603.496
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+249  TVM+F+I       20386.650    535 41843.301    42492.814    44656.174
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+250  TVM+F+G4      19256.376    535 39582.751    40232.264    42395.625
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+251  TVM+F+I+G4    19184.054    536 39440.107    40092.787    42258.238
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+252  TVM+F+R2      19612.920    536 40297.841    40950.521    43115.972
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+253  TVM+F+R3      19248.442    538 39572.883    40231.933    42401.530
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+254  TVM+F+R4      19170.601    540 39421.202    40086.669    42260.364
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+255  TVM+F+R5      19162.093    542 39408.186    40080.117    42257.863
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+256  TVM+F+R6      19139.055    544 39366.110    40044.554    42226.303
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+257  TVM+F+R7      19137.649    546 39367.297    40052.302    42238.005
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+261  SYM           22345.499    532 45754.999    46395.080    48552.099
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+262  SYM+I         20381.755    533 41829.509    42472.723    44631.868
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+263  SYM+G4        19254.351    533 39574.701    40217.915    42377.060
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+264  SYM+I+G4      19175.449    534 39418.899    40065.256    42226.515
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+265  SYM+R2        19588.807    534 40245.614    40891.972    43053.230
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+266  SYM+R3        19248.919    536 39569.839    40222.519    42387.970
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+267  SYM+R4        19162.166    538 39400.332    40059.382    42228.978
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+268  SYM+R5        19153.519    540 39387.038    40052.505    42226.200
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+269  SYM+R6        19120.777    542 39325.554    39997.485    42175.231
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+270  SYM+R7        19120.433    544 39328.866    40007.309    42189.059
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+274  GTR+F         22326.572    535 45723.144    46372.657    48536.017
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+275  GTR+F+I       20363.423    536 41798.845    42451.525    44616.976
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+276  GTR+F+G4      19238.976    536 39549.951    40202.632    42368.083
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+277  GTR+F+I+G4    19160.185    537 39394.370    40050.229    42217.759
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+278  GTR+F+R2      19595.961    537 40265.921    40921.781    43089.310
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+279  GTR+F+R3      19230.054    539 39538.108    40200.361    42372.013
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+280  GTR+F+R4      19150.457    541 39382.913    40051.606    42227.333
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+281  GTR+F+R5      19140.519    543 39367.037    40042.219    42221.973
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+282  GTR+F+R6      19116.762    545 39323.524    40005.242    42188.974
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+283  GTR+F+R7      19115.877    547 39325.754    40014.057    42201.720
+Akaike Information Criterion:           GTR+F+R6
+Corrected Akaike Information Criterion: TVMe+R6
+Bayesian Information Criterion:         TVMe+R6
+Best-fit model: TVMe+R6 chosen according to BIC
+
+All model information printed to /home/aglucaci/EvolutionofNeurotrophinsMammalia/results/BDNF_Codons.fa_CODON_AWARE_ALN.fasta.model.gz
+CPU time for ModelFinder: 4179.880 seconds (1h:9m:39s)
+Wall-clock time for ModelFinder: 299.612 seconds (0h:4m:59s)
+Generating 1000 samples for ultrafast bootstrap (seed: 610764)...
+
+NOTE: 44 MB RAM (0 GB) is required!
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -20400.888
+2. Current log-likelihood: -19199.891
+3. Current log-likelihood: -19156.179
+4. Current log-likelihood: -19154.688
+5. Current log-likelihood: -19154.503
+6. Current log-likelihood: -19154.402
+Optimal log-likelihood: -19154.331
+Rate parameters:  A-C: 1.27338  A-G: 3.25744  A-T: 0.63817  C-G: 1.24276  C-T: 3.25744  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Site proportion and rates:  (0.384,0.006) (0.138,0.133) (0.088,0.403) (0.069,0.899) (0.085,1.439) (0.236,3.220)
+Parameters optimization took 6 rounds (5.359 sec)
+Computing ML distances based on estimated model parameters... 1.751 sec
+Computing BIONJ tree...
+0.059 seconds
+Log-likelihood of BIONJ tree: -19840.389
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 5.503 second
+Computing log-likelihood of 98 initial trees ... 21.849 seconds
+Current best score: -18955.177
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -18850.147
+Iteration 10 / LogL: -18985.046 / Time: 0h:1m:44s
+Iteration 20 / LogL: -19002.970 / Time: 0h:2m:38s
+Finish initializing candidate tree set (20)
+Current best tree score: -18850.147 / CPU time: 150.800
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 22: -18845.899
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 30: -18840.092
+Iteration 30 / LogL: -18840.092 / Time: 0h:3m:32s (0h:12m:13s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 33: -18835.981
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 35: -18826.952
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 36: -18815.964
+Iteration 40 / LogL: -18833.848 / Time: 0h:4m:26s (0h:10m:55s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 41: -18813.868
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 43: -18801.526
+Iteration 50 / LogL: -18829.288 / Time: 0h:5m:18s (0h:10m:3s left)
+Log-likelihood cutoff on original alignment: -18940.979
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 55: -18799.737
+Iteration 60 / LogL: -18833.295 / Time: 0h:6m:6s (0h:9m:49s left)
+Iteration 70 / LogL: -18826.149 / Time: 0h:6m:41s (0h:8m:14s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 72: -18799.166
+Iteration 80 / LogL: -18866.553 / Time: 0h:7m:22s (0h:8m:34s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 82: -18797.687
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 85: -18792.627
+Iteration 90 / LogL: -18803.861 / Time: 0h:8m:5s (0h:8m:38s left)
+BETTER TREE FOUND at iteration 94: -18792.621
+Iteration 100 / LogL: -18794.510 / Time: 0h:8m:50s (0h:8m:23s left)
+Log-likelihood cutoff on original alignment: -18940.979
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.963
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 110 / LogL: -18807.227 / Time: 0h:9m:33s (0h:7m:53s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 113: -18792.337
+Iteration 120 / LogL: -18828.956 / Time: 0h:10m:15s (0h:8m:1s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 124: -18792.103
+Iteration 130 / LogL: -18792.454 / Time: 0h:10m:58s (0h:7m:59s left)
+Iteration 140 / LogL: -18839.288 / Time: 0h:11m:40s (0h:7m:3s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 145: -18789.483
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 150: -18788.850
+Iteration 150 / LogL: -18788.850 / Time: 0h:12m:26s (0h:8m:20s left)
+Log-likelihood cutoff on original alignment: -18936.032
+Iteration 160 / LogL: -18833.109 / Time: 0h:13m:10s (0h:7m:27s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 168: -18787.830
+Iteration 170 / LogL: -18788.670 / Time: 0h:13m:50s (0h:8m:1s left)
+Iteration 180 / LogL: -18795.018 / Time: 0h:14m:31s (0h:7m:8s left)
+Iteration 190 / LogL: -18832.823 / Time: 0h:15m:15s (0h:6m:17s left)
+Iteration 200 / LogL: -18890.054 / Time: 0h:15m:59s (0h:5m:28s left)
+Log-likelihood cutoff on original alignment: -18936.032
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.984
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 210 / LogL: -18789.319 / Time: 0h:16m:51s (0h:7m:15s left)
+Iteration 220 / LogL: -18790.762 / Time: 0h:17m:38s (0h:6m:26s left)
+Iteration 230 / LogL: -18795.319 / Time: 0h:18m:26s (0h:5m:38s left)
+Iteration 240 / LogL: -18797.003 / Time: 0h:19m:15s (0h:4m:50s left)
+Iteration 250 / LogL: -18791.913 / Time: 0h:20m:2s (0h:4m:1s left)
+Log-likelihood cutoff on original alignment: -18936.032
+Iteration 260 / LogL: -18852.531 / Time: 0h:20m:54s (0h:3m:13s left)
+Iteration 270 / LogL: -18816.996 / Time: 0h:21m:46s (0h:2m:25s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 277: -18787.276
+Iteration 280 / LogL: -18845.563 / Time: 0h:22m:35s (0h:7m:51s left)
+Iteration 290 / LogL: -18872.111 / Time: 0h:23m:22s (0h:7m:2s left)
+Iteration 300 / LogL: -18793.051 / Time: 0h:24m:13s (0h:6m:14s left)
+Log-likelihood cutoff on original alignment: -18936.032
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.988
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 310 / LogL: -18790.541 / Time: 0h:25m:1s (0h:7m:17s left)
+Iteration 320 / LogL: -18832.846 / Time: 0h:25m:49s (0h:6m:28s left)
+Iteration 330 / LogL: -18788.262 / Time: 0h:26m:43s (0h:5m:41s left)
+Iteration 340 / LogL: -18791.151 / Time: 0h:27m:37s (0h:4m:53s left)
+Iteration 350 / LogL: -18820.106 / Time: 0h:28m:28s (0h:4m:4s left)
+Log-likelihood cutoff on original alignment: -18930.449
+Iteration 360 / LogL: -18822.207 / Time: 0h:29m:22s (0h:3m:16s left)
+Iteration 370 / LogL: -18787.279 / Time: 0h:30m:12s (0h:2m:27s left)
+Iteration 380 / LogL: -18795.922 / Time: 0h:30m:58s (0h:1m:38s left)
+Iteration 390 / LogL: -18796.992 / Time: 0h:31m:47s (0h:0m:49s left)
+Iteration 400 / LogL: -18859.287 / Time: 0h:32m:35s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -18919.995
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.995
+TREE SEARCH COMPLETED AFTER 400 ITERATIONS / Time: 0h:32m:36s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -18787.276
+2. Current log-likelihood: -18787.266
+Optimal log-likelihood: -18787.256
+Rate parameters:  A-C: 1.21260  A-G: 3.17392  A-T: 0.59722  C-G: 1.18991  C-T: 3.17392  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Site proportion and rates:  (0.350,0.002) (0.169,0.092) (0.101,0.342) (0.101,0.935) (0.159,2.293) (0.121,4.053)
+Parameters optimization took 2 rounds (1.394 sec)
+BEST SCORE FOUND : -18787.256
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+Alternative NNI shows better log-likelihood -18787.250 > -18787.256
+1.873 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file /home/aglucaci/EvolutionofNeurotrophinsMammalia/results/BDNF_Codons.fa_CODON_AWARE_ALN.fasta.splits.nex
+Total tree length: 16.431
+
+Total number of iterations: 400
+CPU time used for tree search: 27495.769 sec (7h:38m:15s)
+Wall-clock time used for tree search: 1948.416 sec (0h:32m:28s)
+Total CPU time used: 27649.913 sec (7h:40m:49s)
+Total wall-clock time used: 1960.161 sec (0h:32m:40s)
+
+Computing bootstrap consensus tree...
+Reading input file /home/aglucaci/EvolutionofNeurotrophinsMammalia/results/BDNF_Codons.fa_CODON_AWARE_ALN.fasta.splits.nex...
+265 taxa and 1809 splits.
+Consensus tree written to /home/aglucaci/EvolutionofNeurotrophinsMammalia/results/BDNF_Codons.fa_CODON_AWARE_ALN.fasta.contree
+Reading input trees file /home/aglucaci/EvolutionofNeurotrophinsMammalia/results/BDNF_Codons.fa_CODON_AWARE_ALN.fasta.contree
+Log-likelihood of consensus tree: -18788.308
+
+Analysis results written to: 
+  IQ-TREE report:                /home/aglucaci/EvolutionofNeurotrophinsMammalia/results/BDNF_Codons.fa_CODON_AWARE_ALN.fasta.iqtree
+  Maximum-likelihood tree:       /home/aglucaci/EvolutionofNeurotrophinsMammalia/results/BDNF_Codons.fa_CODON_AWARE_ALN.fasta.treefile
+  Likelihood distances:          /home/aglucaci/EvolutionofNeurotrophinsMammalia/results/BDNF_Codons.fa_CODON_AWARE_ALN.fasta.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /home/aglucaci/EvolutionofNeurotrophinsMammalia/results/BDNF_Codons.fa_CODON_AWARE_ALN.fasta.splits.nex
+  Consensus tree:                /home/aglucaci/EvolutionofNeurotrophinsMammalia/results/BDNF_Codons.fa_CODON_AWARE_ALN.fasta.contree
+  Screen log file:               /home/aglucaci/EvolutionofNeurotrophinsMammalia/results/BDNF_Codons.fa_CODON_AWARE_ALN.fasta.log
+
+Date and Time: Mon May 31 14:01:13 2021

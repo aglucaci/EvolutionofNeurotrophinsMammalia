@@ -1,0 +1,2000 @@
+# =============================================================================
+# Processing... 
+# =============================================================================
+# TRANSCRIPT INPUT FILE: /home/aglucaci/EvolutionofNeurotrophinsMammalia/data/refseq_transcript.fasta
+# PROTEIN INPUT FILE: /home/aglucaci/EvolutionofNeurotrophinsMammalia/data/refseq_protein.fasta
+# Transcripts: 658
+# Proteins: 654
+1 XP_040140519.1 brain-derived neurotrophic factor isoform X3 [Ictidomys tridecemlineatus]
+-- Match: XM_040284585.1 PREDICTED: Ictidomys tridecemlineatus brain derived neurotrophic factor (Bdnf), transcript variant X8, mRNA 
+
+2 XP_040140518.1 brain-derived neurotrophic factor isoform X3 [Ictidomys tridecemlineatus]
+-- Match: XM_040284584.1 PREDICTED: Ictidomys tridecemlineatus brain derived neurotrophic factor (Bdnf), transcript variant X7, mRNA 
+
+3 XP_040140517.1 brain-derived neurotrophic factor isoform X3 [Ictidomys tridecemlineatus]
+-- Match: XM_040284583.1 PREDICTED: Ictidomys tridecemlineatus brain derived neurotrophic factor (Bdnf), transcript variant X6, mRNA 
+
+4 XP_040140516.1 brain-derived neurotrophic factor isoform X1 [Ictidomys tridecemlineatus]
+-- Match: XM_040284582.1 PREDICTED: Ictidomys tridecemlineatus brain derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+5 XP_038285364.1 brain-derived neurotrophic factor isoform X2 [Canis lupus familiaris]
+-- Match: XM_038429436.1 PREDICTED: Canis lupus familiaris brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+6 XP_038285363.1 brain-derived neurotrophic factor isoform X2 [Canis lupus familiaris]
+-- Match: XM_038429435.1 PREDICTED: Canis lupus familiaris brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+7 XP_038285362.1 brain-derived neurotrophic factor isoform X1 [Canis lupus familiaris]
+-- Match: XM_038429434.1 PREDICTED: Canis lupus familiaris brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+8 XP_037855486.1 brain-derived neurotrophic factor isoform X4 [Chlorocebus sabaeus]
+-- Match: XM_037999558.1 PREDICTED: Chlorocebus sabaeus brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+9 XP_037855484.1 brain-derived neurotrophic factor isoform X2 [Chlorocebus sabaeus]
+-- Match: XM_037999556.1 PREDICTED: Chlorocebus sabaeus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+10 XP_037598011.1 brain-derived neurotrophic factor isoform X3 [Cebus imitator]
+-- Match: XM_037742083.1 PREDICTED: Cebus imitator brain derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+11 XP_037598009.1 brain-derived neurotrophic factor isoform X3 [Cebus imitator]
+-- Match: XM_037742081.1 PREDICTED: Cebus imitator brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+12 XP_037598008.1 brain-derived neurotrophic factor isoform X3 [Cebus imitator]
+-- Match: XM_037742080.1 PREDICTED: Cebus imitator brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+13 XP_037598007.1 brain-derived neurotrophic factor isoform X3 [Cebus imitator]
+-- Match: XM_037742079.1 PREDICTED: Cebus imitator brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+14 XP_037598006.1 brain-derived neurotrophic factor isoform X2 [Cebus imitator]
+-- Match: XM_037742078.1 PREDICTED: Cebus imitator brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+15 XP_037378440.1 brain-derived neurotrophic factor isoform X2 [Talpa occidentalis]
+-- Match: XM_037522543.1 PREDICTED: Talpa occidentalis brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+16 XP_037378439.1 brain-derived neurotrophic factor isoform X2 [Talpa occidentalis]
+-- Match: XM_037522542.1 PREDICTED: Talpa occidentalis brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+17 XP_037378438.1 brain-derived neurotrophic factor isoform X2 [Talpa occidentalis]
+-- Match: XM_037522541.1 PREDICTED: Talpa occidentalis brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+18 XP_037378437.1 brain-derived neurotrophic factor isoform X2 [Talpa occidentalis]
+-- Match: XM_037522540.1 PREDICTED: Talpa occidentalis brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+19 XP_037378436.1 brain-derived neurotrophic factor isoform X2 [Talpa occidentalis]
+-- Match: XM_037522539.1 PREDICTED: Talpa occidentalis brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+20 XP_037378435.1 brain-derived neurotrophic factor isoform X1 [Talpa occidentalis]
+-- Match: XM_037522538.1 PREDICTED: Talpa occidentalis brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+21 XP_037060333.1 brain-derived neurotrophic factor [Peromyscus leucopus]
+-- Match: XM_037204438.1 PREDICTED: Peromyscus leucopus brain derived neurotrophic factor (Bdnf), mRNA 
+
+22 XP_037001930.1 brain-derived neurotrophic factor [Artibeus jamaicensis]
+-- Match: XM_037146035.1 PREDICTED: Artibeus jamaicensis brain derived neurotrophic factor (BDNF), mRNA 
+
+23 XP_036896316.1 brain-derived neurotrophic factor [Sturnira hondurensis]
+-- Match: XM_037040421.1 PREDICTED: Sturnira hondurensis brain derived neurotrophic factor (BDNF), mRNA 
+
+24 XP_017523106.2 brain-derived neurotrophic factor isoform X2 [Manis javanica]
+-- Match: XM_017667617.2 PREDICTED: Manis javanica brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+25 XP_017523104.2 brain-derived neurotrophic factor isoform X2 [Manis javanica]
+-- Match: XM_017667615.2 PREDICTED: Manis javanica brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+26 XP_017523103.2 brain-derived neurotrophic factor isoform X2 [Manis javanica]
+-- Match: XM_017667614.2 PREDICTED: Manis javanica brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+27 XP_017523101.2 brain-derived neurotrophic factor isoform X1 [Manis javanica]
+-- Match: XM_017667612.2 PREDICTED: Manis javanica brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+28 XP_036734977.1 brain-derived neurotrophic factor isoform X2 [Manis pentadactyla]
+-- Match: XM_036879082.1 PREDICTED: Manis pentadactyla brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+29 XP_036734976.1 brain-derived neurotrophic factor isoform X2 [Manis pentadactyla]
+-- Match: XM_036879081.1 PREDICTED: Manis pentadactyla brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+30 XP_036734975.1 brain-derived neurotrophic factor isoform X2 [Manis pentadactyla]
+-- Match: XM_036879080.1 PREDICTED: Manis pentadactyla brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+31 XP_036734974.1 brain-derived neurotrophic factor isoform X1 [Manis pentadactyla]
+-- Match: XM_036879079.1 PREDICTED: Manis pentadactyla brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+32 XP_036718450.1 brain-derived neurotrophic factor isoform X2 [Balaenoptera musculus]
+-- Match: XM_036862555.1 PREDICTED: Balaenoptera musculus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+33 XP_036718449.1 brain-derived neurotrophic factor isoform X2 [Balaenoptera musculus]
+-- Match: XM_036862554.1 PREDICTED: Balaenoptera musculus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+34 XP_036718448.1 brain-derived neurotrophic factor isoform X2 [Balaenoptera musculus]
+-- Match: XM_036862553.1 PREDICTED: Balaenoptera musculus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+35 XP_036718447.1 brain-derived neurotrophic factor isoform X1 [Balaenoptera musculus]
+-- Match: XM_036862552.1 PREDICTED: Balaenoptera musculus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+36 XP_036619526.1 brain-derived neurotrophic factor [Trichosurus vulpecula]
+-- Match: XM_036763631.1 PREDICTED: Trichosurus vulpecula brain derived neurotrophic factor (BDNF), mRNA 
+
+37 XP_036283574.1 brain-derived neurotrophic factor isoform X4 [Pipistrellus kuhlii]
+-- Match: XM_036427681.1 PREDICTED: Pipistrellus kuhlii brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+38 XP_036283573.1 brain-derived neurotrophic factor isoform X3 [Pipistrellus kuhlii]
+-- Match: XM_036427680.1 PREDICTED: Pipistrellus kuhlii brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+39 XP_036283572.1 brain-derived neurotrophic factor isoform X3 [Pipistrellus kuhlii]
+-- Match: XM_036427679.1 PREDICTED: Pipistrellus kuhlii brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+40 XP_036283571.1 brain-derived neurotrophic factor isoform X3 [Pipistrellus kuhlii]
+-- Match: XM_036427678.1 PREDICTED: Pipistrellus kuhlii brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+41 XP_036283570.1 brain-derived neurotrophic factor isoform X2 [Pipistrellus kuhlii]
+-- Match: XM_036427677.1 PREDICTED: Pipistrellus kuhlii brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+42 XP_036283569.1 brain-derived neurotrophic factor isoform X1 [Pipistrellus kuhlii]
+-- Match: XM_036427676.1 PREDICTED: Pipistrellus kuhlii brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+43 XP_036181585.1 brain-derived neurotrophic factor isoform X2 [Myotis myotis]
+-- Match: XM_036325692.1 PREDICTED: Myotis myotis brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+44 XP_036181584.1 brain-derived neurotrophic factor isoform X1 [Myotis myotis]
+-- Match: XM_036325691.1 PREDICTED: Myotis myotis brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+45 XP_036114604.1 brain-derived neurotrophic factor isoform X3 [Molossus molossus]
+-- Match: XM_036258711.1 PREDICTED: Molossus molossus brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+46 XP_036114603.1 brain-derived neurotrophic factor isoform X3 [Molossus molossus]
+-- Match: XM_036258710.1 PREDICTED: Molossus molossus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+47 XP_036114602.1 brain-derived neurotrophic factor isoform X3 [Molossus molossus]
+-- Match: XM_036258709.1 PREDICTED: Molossus molossus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+48 XP_036114601.1 brain-derived neurotrophic factor isoform X2 [Molossus molossus]
+-- Match: XM_036258708.1 PREDICTED: Molossus molossus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+49 XP_036114600.1 brain-derived neurotrophic factor isoform X1 [Molossus molossus]
+-- Match: XM_036258707.1 PREDICTED: Molossus molossus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+50 XP_036076939.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Rousettus aegyptiacus]
+# -- NO Match -- 
+
+51 XP_036040876.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Onychomys torridus]
+# -- NO Match -- 
+
+52 XP_035965392.1 brain-derived neurotrophic factor isoform X2 [Halichoerus grypus]
+-- Match: XM_036109499.1 PREDICTED: Halichoerus grypus brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+53 XP_035965391.1 brain-derived neurotrophic factor isoform X2 [Halichoerus grypus]
+-- Match: XM_036109498.1 PREDICTED: Halichoerus grypus brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+54 XP_035965390.1 brain-derived neurotrophic factor isoform X2 [Halichoerus grypus]
+-- Match: XM_036109497.1 PREDICTED: Halichoerus grypus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+55 XP_035965389.1 brain-derived neurotrophic factor isoform X2 [Halichoerus grypus]
+-- Match: XM_036109496.1 PREDICTED: Halichoerus grypus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+56 XP_035965388.1 brain-derived neurotrophic factor isoform X2 [Halichoerus grypus]
+-- Match: XM_036109495.1 PREDICTED: Halichoerus grypus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+57 XP_035965386.1 brain-derived neurotrophic factor isoform X1 [Halichoerus grypus]
+-- Match: XM_036109493.1 PREDICTED: Halichoerus grypus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+58 XP_035885057.1 brain-derived neurotrophic factor [Phyllostomus discolor]
+-- Match: XM_036029164.1 PREDICTED: Phyllostomus discolor brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+59 XP_035292863.1 brain-derived neurotrophic factor isoform X4 [Cricetulus griseus]
+-- Match: XM_035436972.1 PREDICTED: Cricetulus griseus brain derived neurotrophic factor (Bdnf), transcript variant X5, mRNA 
+
+60 XP_035292862.1 brain-derived neurotrophic factor isoform X2 [Cricetulus griseus]
+-- Match: XM_035436971.1 PREDICTED: Cricetulus griseus brain derived neurotrophic factor (Bdnf), transcript variant X2, mRNA 
+
+61 XP_035118173.1 brain-derived neurotrophic factor isoform X6 [Callithrix jacchus]
+-- Match: XM_035262282.1 PREDICTED: Callithrix jacchus brain derived neurotrophic factor (BDNF), transcript variant X10, mRNA 
+
+62 XP_035118172.1 brain-derived neurotrophic factor isoform X5 [Callithrix jacchus]
+-- Match: XM_035262281.1 PREDICTED: Callithrix jacchus brain derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+63 XP_035118171.1 brain-derived neurotrophic factor isoform X5 [Callithrix jacchus]
+-- Match: XM_035262280.1 PREDICTED: Callithrix jacchus brain derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+64 XP_035118170.1 brain-derived neurotrophic factor isoform X5 [Callithrix jacchus]
+-- Match: XM_035262279.1 PREDICTED: Callithrix jacchus brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+65 XP_035118169.1 brain-derived neurotrophic factor isoform X5 [Callithrix jacchus]
+-- Match: XM_035262278.1 PREDICTED: Callithrix jacchus brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+66 XP_035118168.1 brain-derived neurotrophic factor isoform X4 [Callithrix jacchus]
+-- Match: XM_035262277.1 PREDICTED: Callithrix jacchus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+67 XP_035118167.1 brain-derived neurotrophic factor isoform X3 [Callithrix jacchus]
+-- Match: XM_035262276.1 PREDICTED: Callithrix jacchus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+68 XP_034868368.1 brain-derived neurotrophic factor [Mirounga leonina]
+-- Match: XM_035012477.1 PREDICTED: Mirounga leonina brain derived neurotrophic factor (BDNF), mRNA 
+
+69 XP_034788209.1 brain-derived neurotrophic factor isoform X5 [Pan paniscus]
+-- Match: XM_034932318.1 PREDICTED: Pan paniscus brain derived neurotrophic factor (BDNF), transcript variant X9, mRNA 
+
+70 XP_034788208.1 brain-derived neurotrophic factor isoform X4 [Pan paniscus]
+-- Match: XM_034932317.1 PREDICTED: Pan paniscus brain derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+71 XP_034788207.1 brain-derived neurotrophic factor isoform X4 [Pan paniscus]
+-- Match: XM_034932316.1 PREDICTED: Pan paniscus brain derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+72 XP_034788206.1 brain-derived neurotrophic factor isoform X4 [Pan paniscus]
+-- Match: XM_034932315.1 PREDICTED: Pan paniscus brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+73 XP_034788205.1 brain-derived neurotrophic factor isoform X4 [Pan paniscus]
+-- Match: XM_034932314.1 PREDICTED: Pan paniscus brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+74 XP_008954142.2 brain-derived neurotrophic factor isoform X2 [Pan paniscus]
+-- Match: XM_008955894.3 PREDICTED: Pan paniscus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+75 XP_008954140.2 brain-derived neurotrophic factor isoform X1 [Pan paniscus]
+-- Match: XM_008955892.2 PREDICTED: Pan paniscus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+76 XP_034352200.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Arvicanthis niloticus]
+# -- NO Match -- 
+
+77 XP_033619951.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Fukomys damarensis]
+-- Match: XM_033764060.1 PREDICTED: Fukomys damarensis brain derived neurotrophic factor (Bdnf), mRNA 
+
+78 XP_033061370.1 brain-derived neurotrophic factor isoform X2 [Trachypithecus francoisi]
+-- Match: XM_033205479.1 PREDICTED: Trachypithecus francoisi brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+79 XP_033061369.1 brain-derived neurotrophic factor isoform X2 [Trachypithecus francoisi]
+-- Match: XM_033205478.1 PREDICTED: Trachypithecus francoisi brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+80 XP_033061367.1 brain-derived neurotrophic factor isoform X2 [Trachypithecus francoisi]
+-- Match: XM_033205476.1 PREDICTED: Trachypithecus francoisi brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+81 XP_033061366.1 brain-derived neurotrophic factor isoform X1 [Trachypithecus francoisi]
+-- Match: XM_033205475.1 PREDICTED: Trachypithecus francoisi brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+82 XP_032974835.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Rhinolophus ferrumequinum]
+-- Match: XM_033118944.1 PREDICTED: Rhinolophus ferrumequinum brain derived neurotrophic factor (BDNF), mRNA 
+
+83 XP_032759757.1 brain-derived neurotrophic factor isoform X4 [Rattus rattus]
+-- Match: XM_032903866.1 PREDICTED: Rattus rattus brain derived neurotrophic factor (Bdnf), transcript variant X6, mRNA 
+
+84 XP_032759756.1 brain-derived neurotrophic factor isoform X4 [Rattus rattus]
+-- Match: XM_032903865.1 PREDICTED: Rattus rattus brain derived neurotrophic factor (Bdnf), transcript variant X5, mRNA 
+
+85 XP_032759755.1 brain-derived neurotrophic factor isoform X4 [Rattus rattus]
+-- Match: XM_032903864.1 PREDICTED: Rattus rattus brain derived neurotrophic factor (Bdnf), transcript variant X4, mRNA 
+
+86 XP_032759754.1 brain-derived neurotrophic factor isoform X3 [Rattus rattus]
+-- Match: XM_032903863.1 PREDICTED: Rattus rattus brain derived neurotrophic factor (Bdnf), transcript variant X3, mRNA 
+
+87 XP_032759753.1 brain-derived neurotrophic factor isoform X2 [Rattus rattus]
+-- Match: XM_032903862.1 PREDICTED: Rattus rattus brain derived neurotrophic factor (Bdnf), transcript variant X2, mRNA 
+
+88 XP_032759752.1 brain-derived neurotrophic factor isoform X1 [Rattus rattus]
+-- Match: XM_032903861.1 PREDICTED: Rattus rattus brain derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+89 XP_032737137.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Lontra canadensis]
+# -- NO Match -- 
+
+90 XP_032497377.1 brain-derived neurotrophic factor isoform X1 [Phocoena sinus]
+-- Match: XM_032641486.1 PREDICTED: Phocoena sinus brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+91 XP_032497376.1 brain-derived neurotrophic factor isoform X3 [Phocoena sinus]
+-- Match: XM_032641485.1 PREDICTED: Phocoena sinus brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+92 XP_032497375.1 brain-derived neurotrophic factor isoform X3 [Phocoena sinus]
+-- Match: XM_032641484.1 PREDICTED: Phocoena sinus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+93 XP_032497374.1 brain-derived neurotrophic factor isoform X2 [Phocoena sinus]
+-- Match: XM_032641483.1 PREDICTED: Phocoena sinus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+94 XP_032497373.1 brain-derived neurotrophic factor isoform X1 [Phocoena sinus]
+-- Match: XM_032641482.1 PREDICTED: Phocoena sinus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+95 XP_032497372.1 brain-derived neurotrophic factor isoform X1 [Phocoena sinus]
+-- Match: XM_032641481.1 PREDICTED: Phocoena sinus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+96 XP_032270074.1 brain-derived neurotrophic factor isoform X3 [Phoca vitulina]
+-- Match: XM_032414183.1 PREDICTED: Phoca vitulina brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+97 XP_032270073.1 brain-derived neurotrophic factor isoform X2 [Phoca vitulina]
+-- Match: XM_032414182.1 PREDICTED: Phoca vitulina brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+98 XP_032270072.1 brain-derived neurotrophic factor isoform X2 [Phoca vitulina]
+-- Match: XM_032414181.1 PREDICTED: Phoca vitulina brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+99 XP_032270071.1 brain-derived neurotrophic factor isoform X2 [Phoca vitulina]
+-- Match: XM_032414180.1 PREDICTED: Phoca vitulina brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+100 XP_032270070.1 brain-derived neurotrophic factor isoform X2 [Phoca vitulina]
+-- Match: XM_032414179.1 PREDICTED: Phoca vitulina brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+101 XP_032270069.1 brain-derived neurotrophic factor isoform X1 [Phoca vitulina]
+-- Match: XM_032414178.1 PREDICTED: Phoca vitulina brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+102 XP_032214651.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Mustela erminea]
+# -- NO Match -- 
+
+103 XP_032139590.1 brain-derived neurotrophic factor isoform X4 [Sapajus apella]
+-- Match: XM_032283699.1 PREDICTED: Sapajus apella brain derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+104 XP_032139588.1 brain-derived neurotrophic factor isoform X3 [Sapajus apella]
+-- Match: XM_032283697.1 PREDICTED: Sapajus apella brain derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+105 XP_032139587.1 brain-derived neurotrophic factor isoform X3 [Sapajus apella]
+-- Match: XM_032283696.1 PREDICTED: Sapajus apella brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+106 XP_032139586.1 brain-derived neurotrophic factor isoform X3 [Sapajus apella]
+-- Match: XM_032283695.1 PREDICTED: Sapajus apella brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+107 XP_032139585.1 brain-derived neurotrophic factor isoform X3 [Sapajus apella]
+-- Match: XM_032283694.1 PREDICTED: Sapajus apella brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+108 XP_032139584.1 brain-derived neurotrophic factor isoform X3 [Sapajus apella]
+-- Match: XM_032283693.1 PREDICTED: Sapajus apella brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+109 XP_032139583.1 brain-derived neurotrophic factor isoform X2 [Sapajus apella]
+-- Match: XM_032283692.1 PREDICTED: Sapajus apella brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+110 XP_032139582.1 brain-derived neurotrophic factor isoform X1 [Sapajus apella]
+-- Match: XM_032283691.1 PREDICTED: Sapajus apella brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+111 XP_032022266.1 brain-derived neurotrophic factor isoform X4 [Hylobates moloch]
+-- Match: XM_032166375.1 PREDICTED: Hylobates moloch brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+112 XP_032022265.1 brain-derived neurotrophic factor isoform X4 [Hylobates moloch]
+-- Match: XM_032166374.1 PREDICTED: Hylobates moloch brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+113 XP_032022264.1 brain-derived neurotrophic factor isoform X4 [Hylobates moloch]
+-- Match: XM_032166373.1 PREDICTED: Hylobates moloch brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+114 XP_032022263.1 brain-derived neurotrophic factor isoform X3 [Hylobates moloch]
+-- Match: XM_032166372.1 PREDICTED: Hylobates moloch brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+115 XP_032022262.1 brain-derived neurotrophic factor isoform X2 [Hylobates moloch]
+-- Match: XM_032166371.1 PREDICTED: Hylobates moloch brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+116 XP_032022261.1 brain-derived neurotrophic factor isoform X1 [Hylobates moloch]
+-- Match: XM_032166370.1 PREDICTED: Hylobates moloch brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+117 XP_031800021.1 brain-derived neurotrophic factor isoform X2 [Sarcophilus harrisii]
+-- Match: XM_031944161.1 PREDICTED: Sarcophilus harrisii brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+118 XP_031800020.1 brain-derived neurotrophic factor isoform X2 [Sarcophilus harrisii]
+-- Match: XM_023506304.2 PREDICTED: Sarcophilus harrisii brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+119 XP_031800019.1 brain-derived neurotrophic factor isoform X1 [Sarcophilus harrisii]
+-- Match: XM_031944159.1 PREDICTED: Sarcophilus harrisii brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+120 XP_031536934.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Vicugna pacos]
+-- Match: XM_031681074.1 PREDICTED: Vicugna pacos brain derived neurotrophic factor (BDNF), mRNA 
+
+121 XP_031315718.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Camelus dromedarius]
+-- Match: XM_031459858.1 PREDICTED: Camelus dromedarius brain derived neurotrophic factor (BDNF), mRNA 
+
+122 XP_031227179.1 brain-derived neurotrophic factor isoform X4 [Mastomys coucha]
+-- Match: XM_031371319.1 PREDICTED: Mastomys coucha brain derived neurotrophic factor (Bdnf), transcript variant X7, mRNA 
+
+123 XP_031227178.1 brain-derived neurotrophic factor isoform X4 [Mastomys coucha]
+-- Match: XM_031371318.1 PREDICTED: Mastomys coucha brain derived neurotrophic factor (Bdnf), transcript variant X6, mRNA 
+
+124 XP_031227177.1 brain-derived neurotrophic factor isoform X4 [Mastomys coucha]
+-- Match: XM_031371317.1 PREDICTED: Mastomys coucha brain derived neurotrophic factor (Bdnf), transcript variant X5, mRNA 
+
+125 XP_031227176.1 brain-derived neurotrophic factor isoform X4 [Mastomys coucha]
+-- Match: XM_031371316.1 PREDICTED: Mastomys coucha brain derived neurotrophic factor (Bdnf), transcript variant X4, mRNA 
+
+126 XP_031227175.1 brain-derived neurotrophic factor isoform X3 [Mastomys coucha]
+-- Match: XM_031371315.1 PREDICTED: Mastomys coucha brain derived neurotrophic factor (Bdnf), transcript variant X3, mRNA 
+
+127 XP_031227174.1 brain-derived neurotrophic factor isoform X2 [Mastomys coucha]
+-- Match: XM_031371314.1 PREDICTED: Mastomys coucha brain derived neurotrophic factor (Bdnf), transcript variant X2, mRNA 
+
+128 XP_031227173.1 brain-derived neurotrophic factor isoform X1 [Mastomys coucha]
+-- Match: XM_031371313.1 PREDICTED: Mastomys coucha brain derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+129 XP_030880927.1 brain-derived neurotrophic factor isoform X2 [Leptonychotes weddellii]
+-- Match: XM_031025067.1 PREDICTED: Leptonychotes weddellii brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+130 XP_030880926.1 brain-derived neurotrophic factor isoform X2 [Leptonychotes weddellii]
+-- Match: XM_031025066.1 PREDICTED: Leptonychotes weddellii brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+131 XP_030880925.1 brain-derived neurotrophic factor isoform X2 [Leptonychotes weddellii]
+-- Match: XM_031025065.1 PREDICTED: Leptonychotes weddellii brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+132 XP_030880924.1 brain-derived neurotrophic factor isoform X1 [Leptonychotes weddellii]
+-- Match: XM_031025064.1 PREDICTED: Leptonychotes weddellii brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+133 XP_030871815.1 brain-derived neurotrophic factor isoform X5 [Gorilla gorilla gorilla]
+-- Match: XM_004050856.3 PREDICTED: Gorilla gorilla gorilla brain derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+134 XP_004050896.2 brain-derived neurotrophic factor isoform X2 [Gorilla gorilla gorilla]
+-- Match: XM_004050848.3 PREDICTED: Gorilla gorilla gorilla brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+135 XP_030774781.1 brain-derived neurotrophic factor isoform X3 [Rhinopithecus roxellana]
+-- Match: XM_010374533.2 PREDICTED: Rhinopithecus roxellana brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+136 XP_030720696.1 brain-derived neurotrophic factor isoform X2 [Globicephala melas]
+-- Match: XM_030864836.1 PREDICTED: Globicephala melas brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+137 XP_030720695.1 brain-derived neurotrophic factor isoform X2 [Globicephala melas]
+-- Match: XM_030864835.1 PREDICTED: Globicephala melas brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+138 XP_030720694.1 brain-derived neurotrophic factor isoform X2 [Globicephala melas]
+-- Match: XM_030864834.1 PREDICTED: Globicephala melas brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+139 XP_030720693.1 brain-derived neurotrophic factor isoform X1 [Globicephala melas]
+-- Match: XM_030864833.1 PREDICTED: Globicephala melas brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+140 XP_030685373.1 brain-derived neurotrophic factor isoform X4 [Nomascus leucogenys]
+-- Match: XM_003254348.2 PREDICTED: Nomascus leucogenys brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+141 XP_030189068.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Lynx canadensis]
+-- Match: XM_030333208.1 PREDICTED: Lynx canadensis brain derived neurotrophic factor (BDNF), mRNA 
+
+142 XP_029813018.1 brain-derived neurotrophic factor isoform X2 [Suricata suricatta]
+-- Match: XM_029957158.1 PREDICTED: Suricata suricatta brain derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+143 XP_029813017.1 brain-derived neurotrophic factor isoform X2 [Suricata suricatta]
+-- Match: XM_029957157.1 PREDICTED: Suricata suricatta brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+144 XP_029813016.1 brain-derived neurotrophic factor isoform X2 [Suricata suricatta]
+-- Match: XM_029957156.1 PREDICTED: Suricata suricatta brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+145 XP_029813015.1 brain-derived neurotrophic factor isoform X2 [Suricata suricatta]
+-- Match: XM_029957155.1 PREDICTED: Suricata suricatta brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+146 XP_029813014.1 brain-derived neurotrophic factor isoform X2 [Suricata suricatta]
+-- Match: XM_029957154.1 PREDICTED: Suricata suricatta brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+147 XP_029813013.1 brain-derived neurotrophic factor isoform X2 [Suricata suricatta]
+-- Match: XM_029957153.1 PREDICTED: Suricata suricatta brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+148 XP_029813012.1 brain-derived neurotrophic factor isoform X1 [Suricata suricatta]
+-- Match: XM_029957152.1 PREDICTED: Suricata suricatta brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+149 XP_029410953.1 brain-derived neurotrophic factor isoform X2 [Nannospalax galili]
+-- Match: XM_029555093.1 PREDICTED: Nannospalax galili brain derived neurotrophic factor (Bdnf), transcript variant X2, mRNA 
+
+150 XP_029410950.1 brain-derived neurotrophic factor isoform X1 [Nannospalax galili]
+-- Match: XM_029555090.1 PREDICTED: Nannospalax galili brain derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+151 XP_029063777.1 brain-derived neurotrophic factor isoform X3 [Monodon monoceros]
+-- Match: XM_029207944.1 PREDICTED: Monodon monoceros brain derived neurotrophic factor (BDNF), transcript variant X9, mRNA 
+
+152 XP_029063776.1 brain-derived neurotrophic factor isoform X3 [Monodon monoceros]
+-- Match: XM_029207943.1 PREDICTED: Monodon monoceros brain derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+153 XP_029063775.1 brain-derived neurotrophic factor isoform X3 [Monodon monoceros]
+-- Match: XM_029207942.1 PREDICTED: Monodon monoceros brain derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+154 XP_029063774.1 brain-derived neurotrophic factor isoform X3 [Monodon monoceros]
+-- Match: XM_029207941.1 PREDICTED: Monodon monoceros brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+155 XP_029063773.1 brain-derived neurotrophic factor isoform X3 [Monodon monoceros]
+-- Match: XM_029207940.1 PREDICTED: Monodon monoceros brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+156 XP_029063770.1 brain-derived neurotrophic factor isoform X3 [Monodon monoceros]
+-- Match: XM_029207937.1 PREDICTED: Monodon monoceros brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+157 XP_029063769.1 brain-derived neurotrophic factor isoform X3 [Monodon monoceros]
+-- Match: XM_029207936.1 PREDICTED: Monodon monoceros brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+158 XP_029063768.1 brain-derived neurotrophic factor isoform X2 [Monodon monoceros]
+-- Match: XM_029207935.1 PREDICTED: Monodon monoceros brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+159 XP_029063767.1 brain-derived neurotrophic factor isoform X1 [Monodon monoceros]
+-- Match: XM_029207934.1 PREDICTED: Monodon monoceros brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+160 XP_028915151.1 brain-derived neurotrophic factor isoform X2 [Ornithorhynchus anatinus]
+-- Match: XM_029059318.2 PREDICTED: Ornithorhynchus anatinus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+161 XP_028915150.1 brain-derived neurotrophic factor isoform X1 [Ornithorhynchus anatinus]
+-- Match: XM_029059317.2 PREDICTED: Ornithorhynchus anatinus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+162 XP_028622754.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Grammomys surdaster]
+# -- NO Match -- 
+
+163 XP_028373440.1 brain-derived neurotrophic factor [Phyllostomus discolor]
+-- Match: XM_028517639.2 PREDICTED: Phyllostomus discolor brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+164 XP_028373439.1 brain-derived neurotrophic factor [Phyllostomus discolor]
+-- Match: XM_028517638.2 PREDICTED: Phyllostomus discolor brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+165 XP_028356951.1 brain-derived neurotrophic factor isoform X1 [Physeter catodon]
+-- Match: XM_028501150.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X17, mRNA 
+
+166 XP_028356950.1 brain-derived neurotrophic factor isoform X5 [Physeter catodon]
+-- Match: XM_028501149.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X15, mRNA 
+
+167 XP_028356948.1 brain-derived neurotrophic factor isoform X4 [Physeter catodon]
+-- Match: XM_028501147.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X14, mRNA 
+
+168 XP_028356947.1 brain-derived neurotrophic factor isoform X3 [Physeter catodon]
+-- Match: XM_028501146.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X13, mRNA 
+
+169 XP_028356946.1 brain-derived neurotrophic factor isoform X3 [Physeter catodon]
+-- Match: XM_028501145.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X12, mRNA 
+
+170 XP_028356945.1 brain-derived neurotrophic factor isoform X3 [Physeter catodon]
+-- Match: XM_028501144.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X11, mRNA 
+
+171 XP_028356944.1 brain-derived neurotrophic factor isoform X3 [Physeter catodon]
+-- Match: XM_028501143.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X10, mRNA 
+
+172 XP_028356943.1 brain-derived neurotrophic factor isoform X3 [Physeter catodon]
+-- Match: XM_028501142.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X9, mRNA 
+
+173 XP_028356942.1 brain-derived neurotrophic factor isoform X3 [Physeter catodon]
+-- Match: XM_028501141.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+174 XP_028356941.1 brain-derived neurotrophic factor isoform X3 [Physeter catodon]
+-- Match: XM_028501140.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+175 XP_028356940.1 brain-derived neurotrophic factor isoform X2 [Physeter catodon]
+-- Match: XM_028501139.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+176 XP_028356939.1 brain-derived neurotrophic factor isoform X2 [Physeter catodon]
+-- Match: XM_028501138.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+177 XP_028356938.1 brain-derived neurotrophic factor isoform X2 [Physeter catodon]
+-- Match: XM_028501137.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+178 XP_028356937.1 brain-derived neurotrophic factor isoform X2 [Physeter catodon]
+-- Match: XM_028501136.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+179 XP_028356936.1 brain-derived neurotrophic factor isoform X1 [Physeter catodon]
+-- Match: XM_028501135.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+180 XP_028356935.1 brain-derived neurotrophic factor isoform X1 [Physeter catodon]
+-- Match: XM_028501134.1 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+181 XP_027973510.1 brain-derived neurotrophic factor [Eumetopias jubatus]
+-- Match: XM_028117709.1 PREDICTED: Eumetopias jubatus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+182 XP_027973509.1 brain-derived neurotrophic factor [Eumetopias jubatus]
+-- Match: XM_028117708.1 PREDICTED: Eumetopias jubatus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+183 XP_014956578.2 brain-derived neurotrophic factor [Ovis aries]
+-- Match: XM_015101092.2 PREDICTED: Ovis aries brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+184 XP_011951519.2 brain-derived neurotrophic factor [Ovis aries]
+-- Match: XM_012096129.3 PREDICTED: Ovis aries brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+185 XP_027792403.1 brain-derived neurotrophic factor isoform X3 [Marmota flaviventris]
+-- Match: XM_027936602.1 PREDICTED: Marmota flaviventris brain derived neurotrophic factor (Bdnf), transcript variant X6, mRNA 
+
+186 XP_027792402.1 brain-derived neurotrophic factor isoform X3 [Marmota flaviventris]
+-- Match: XM_027936601.1 PREDICTED: Marmota flaviventris brain derived neurotrophic factor (Bdnf), transcript variant X5, mRNA 
+
+187 XP_027792401.1 brain-derived neurotrophic factor isoform X3 [Marmota flaviventris]
+-- Match: XM_027936600.1 PREDICTED: Marmota flaviventris brain derived neurotrophic factor (Bdnf), transcript variant X4, mRNA 
+
+188 XP_027792400.1 brain-derived neurotrophic factor isoform X3 [Marmota flaviventris]
+-- Match: XM_027936599.1 PREDICTED: Marmota flaviventris brain derived neurotrophic factor (Bdnf), transcript variant X3, mRNA 
+
+189 XP_027792398.1 brain-derived neurotrophic factor isoform X2 [Marmota flaviventris]
+-- Match: XM_027936597.1 PREDICTED: Marmota flaviventris brain derived neurotrophic factor (Bdnf), transcript variant X2, mRNA 
+
+190 XP_027792397.1 brain-derived neurotrophic factor isoform X1 [Marmota flaviventris]
+-- Match: XM_027936596.1 PREDICTED: Marmota flaviventris brain derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+191 XP_027708380.1 brain-derived neurotrophic factor [Vombatus ursinus]
+-- Match: XM_027852579.1 PREDICTED: Vombatus ursinus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+192 XP_027708379.1 brain-derived neurotrophic factor [Vombatus ursinus]
+-- Match: XM_027852578.1 PREDICTED: Vombatus ursinus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+193 XP_027433612.1 brain-derived neurotrophic factor isoform X2 [Zalophus californianus]
+-- Match: XM_027577811.2 PREDICTED: Zalophus californianus brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+194 XP_027433611.1 brain-derived neurotrophic factor isoform X2 [Zalophus californianus]
+-- Match: XM_027577810.1 PREDICTED: Zalophus californianus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+195 XP_027433610.1 brain-derived neurotrophic factor isoform X2 [Zalophus californianus]
+-- Match: XM_027577809.1 PREDICTED: Zalophus californianus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+196 XP_027433609.1 brain-derived neurotrophic factor isoform X2 [Zalophus californianus]
+-- Match: XM_027577808.1 PREDICTED: Zalophus californianus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+197 XP_027433608.1 brain-derived neurotrophic factor isoform X1 [Zalophus californianus]
+-- Match: XM_027577807.1 PREDICTED: Zalophus californianus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+198 XP_027418592.1 brain-derived neurotrophic factor isoform X2 [Bos indicus x Bos taurus]
+-- Match: XM_027562791.1 PREDICTED: Bos indicus x Bos taurus brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+199 XP_027418591.1 brain-derived neurotrophic factor isoform X2 [Bos indicus x Bos taurus]
+-- Match: XM_027562790.1 PREDICTED: Bos indicus x Bos taurus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+200 XP_027418589.1 brain-derived neurotrophic factor isoform X2 [Bos indicus x Bos taurus]
+-- Match: XM_027562788.1 PREDICTED: Bos indicus x Bos taurus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+201 XP_027418588.1 brain-derived neurotrophic factor isoform X2 [Bos indicus x Bos taurus]
+-- Match: XM_027562787.1 PREDICTED: Bos indicus x Bos taurus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+202 XP_027418587.1 brain-derived neurotrophic factor isoform X1 [Bos indicus x Bos taurus]
+-- Match: XM_027562786.1 PREDICTED: Bos indicus x Bos taurus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+203 XP_026970942.1 brain-derived neurotrophic factor isoform X2 [Lagenorhynchus obliquidens]
+-- Match: XM_027115141.1 PREDICTED: Lagenorhynchus obliquidens brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+204 XP_026970941.1 brain-derived neurotrophic factor isoform X2 [Lagenorhynchus obliquidens]
+-- Match: XM_027115140.1 PREDICTED: Lagenorhynchus obliquidens brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+205 XP_026970940.1 brain-derived neurotrophic factor isoform X2 [Lagenorhynchus obliquidens]
+-- Match: XM_027115139.1 PREDICTED: Lagenorhynchus obliquidens brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+206 XP_026970939.1 brain-derived neurotrophic factor isoform X1 [Lagenorhynchus obliquidens]
+-- Match: XM_027115138.1 PREDICTED: Lagenorhynchus obliquidens brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+207 XP_026928761.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Acinonyx jubatus]
+# -- NO Match -- 
+
+208 XP_026367988.1 brain-derived neurotrophic factor [Ursus arctos horribilis]
+-- Match: XM_026512203.1 PREDICTED: Ursus arctos horribilis brain derived neurotrophic factor (BDNF), mRNA 
+
+209 XP_026268061.1 brain-derived neurotrophic factor isoform X3 [Urocitellus parryii]
+-- Match: XM_026412276.1 PREDICTED: Urocitellus parryii brain derived neurotrophic factor (Bdnf), transcript variant X5, mRNA 
+
+210 XP_026268060.1 brain-derived neurotrophic factor isoform X3 [Urocitellus parryii]
+-- Match: XM_026412275.1 PREDICTED: Urocitellus parryii brain derived neurotrophic factor (Bdnf), transcript variant X4, mRNA 
+
+211 XP_026268059.1 brain-derived neurotrophic factor isoform X3 [Urocitellus parryii]
+-- Match: XM_026412274.1 PREDICTED: Urocitellus parryii brain derived neurotrophic factor (Bdnf), transcript variant X3, mRNA 
+
+212 XP_026268058.1 brain-derived neurotrophic factor isoform X2 [Urocitellus parryii]
+-- Match: XM_026412273.1 PREDICTED: Urocitellus parryii brain derived neurotrophic factor (Bdnf), transcript variant X2, mRNA 
+
+213 XP_026268057.1 brain-derived neurotrophic factor isoform X1 [Urocitellus parryii]
+-- Match: XM_026412272.1 PREDICTED: Urocitellus parryii brain derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+214 XP_025874387.1 brain-derived neurotrophic factor isoform X2 [Vulpes vulpes]
+-- Match: XM_026018602.1 PREDICTED: Vulpes vulpes brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+215 XP_025874386.1 brain-derived neurotrophic factor isoform X2 [Vulpes vulpes]
+-- Match: XM_026018601.1 PREDICTED: Vulpes vulpes brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+216 XP_025874385.1 brain-derived neurotrophic factor isoform X1 [Vulpes vulpes]
+-- Match: XM_026018600.1 PREDICTED: Vulpes vulpes brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+217 XP_025784820.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Puma concolor]
+# -- NO Match -- 
+
+218 XP_025735111.1 brain-derived neurotrophic factor [Callorhinus ursinus]
+-- Match: XM_025879326.1 PREDICTED: Callorhinus ursinus brain derived neurotrophic factor (BDNF), mRNA 
+
+219 XP_025315603.1 brain-derived neurotrophic factor isoform X2 [Canis lupus dingo]
+-- Match: XM_025459817.2 PREDICTED: Canis lupus dingo brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+220 XP_025315602.1 brain-derived neurotrophic factor isoform X2 [Canis lupus dingo]
+-- Match: XM_025459818.2 PREDICTED: Canis lupus dingo brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+221 XP_025315601.1 brain-derived neurotrophic factor isoform X1 [Canis lupus dingo]
+-- Match: XM_025459816.2 PREDICTED: Canis lupus dingo brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+222 XP_025214101.1 brain-derived neurotrophic factor isoform X5 [Theropithecus gelada]
+-- Match: XM_025358316.1 PREDICTED: Theropithecus gelada brain derived neurotrophic factor (BDNF), transcript variant X11, mRNA 
+
+223 XP_025214100.1 brain-derived neurotrophic factor isoform X5 [Theropithecus gelada]
+-- Match: XM_025358315.1 PREDICTED: Theropithecus gelada brain derived neurotrophic factor (BDNF), transcript variant X10, mRNA 
+
+224 XP_025214099.1 brain-derived neurotrophic factor isoform X5 [Theropithecus gelada]
+-- Match: XM_025358314.1 PREDICTED: Theropithecus gelada brain derived neurotrophic factor (BDNF), transcript variant X9, mRNA 
+
+225 XP_025214098.1 brain-derived neurotrophic factor isoform X5 [Theropithecus gelada]
+-- Match: XM_025358313.1 PREDICTED: Theropithecus gelada brain derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+226 XP_025214096.1 brain-derived neurotrophic factor isoform X5 [Theropithecus gelada]
+-- Match: XM_025358311.1 PREDICTED: Theropithecus gelada brain derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+227 XP_025214095.1 brain-derived neurotrophic factor isoform X5 [Theropithecus gelada]
+-- Match: XM_025358310.1 PREDICTED: Theropithecus gelada brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+228 XP_025214094.1 brain-derived neurotrophic factor isoform X5 [Theropithecus gelada]
+-- Match: XM_025358309.1 PREDICTED: Theropithecus gelada brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+229 XP_025214093.1 brain-derived neurotrophic factor isoform X4 [Theropithecus gelada]
+-- Match: XM_025358308.1 PREDICTED: Theropithecus gelada brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+230 XP_025214092.1 brain-derived neurotrophic factor isoform X3 [Theropithecus gelada]
+-- Match: XM_025358307.1 PREDICTED: Theropithecus gelada brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+231 XP_025214091.1 brain-derived neurotrophic factor isoform X2 [Theropithecus gelada]
+-- Match: XM_025358306.1 PREDICTED: Theropithecus gelada brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+232 XP_025214090.1 brain-derived neurotrophic factor isoform X1 [Theropithecus gelada]
+-- Match: XM_025358305.1 PREDICTED: Theropithecus gelada brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+233 XP_024620463.1 brain-derived neurotrophic factor [Neophocaena asiaeorientalis asiaeorientalis]
+-- Match: XM_024764695.1 PREDICTED: Neophocaena asiaeorientalis asiaeorientalis brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+234 XP_024620462.1 brain-derived neurotrophic factor [Neophocaena asiaeorientalis asiaeorientalis]
+-- Match: XM_024764694.1 PREDICTED: Neophocaena asiaeorientalis asiaeorientalis brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+235 XP_024414674.1 brain-derived neurotrophic factor isoform X2 [Desmodus rotundus]
+-- Match: XM_024558906.1 PREDICTED: Desmodus rotundus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+236 XP_024414673.1 brain-derived neurotrophic factor isoform X2 [Desmodus rotundus]
+-- Match: XM_024558905.1 PREDICTED: Desmodus rotundus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+237 XP_024414672.1 brain-derived neurotrophic factor isoform X2 [Desmodus rotundus]
+-- Match: XM_024558904.1 PREDICTED: Desmodus rotundus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+238 XP_024414671.1 brain-derived neurotrophic factor isoform X1 [Desmodus rotundus]
+-- Match: XM_024558903.1 PREDICTED: Desmodus rotundus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+239 XP_023612144.1 brain-derived neurotrophic factor isoform X2 [Myotis lucifugus]
+-- Match: XM_023756376.1 PREDICTED: Myotis lucifugus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+240 XP_023612143.1 brain-derived neurotrophic factor isoform X2 [Myotis lucifugus]
+-- Match: XM_023756375.1 PREDICTED: Myotis lucifugus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+241 XP_023612142.1 brain-derived neurotrophic factor isoform X1 [Myotis lucifugus]
+-- Match: XM_023756374.1 PREDICTED: Myotis lucifugus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+242 XP_023559997.1 brain-derived neurotrophic factor isoform X2 [Octodon degus]
+-- Match: XM_023704229.1 PREDICTED: Octodon degus brain derived neurotrophic factor (Bdnf), transcript variant X7, mRNA 
+
+243 XP_023559996.1 brain-derived neurotrophic factor isoform X2 [Octodon degus]
+-- Match: XM_023704228.1 PREDICTED: Octodon degus brain derived neurotrophic factor (Bdnf), transcript variant X6, mRNA 
+
+244 XP_023559995.1 brain-derived neurotrophic factor isoform X2 [Octodon degus]
+-- Match: XM_004644115.3 PREDICTED: Octodon degus brain derived neurotrophic factor (Bdnf), transcript variant X5, mRNA 
+
+245 XP_023418733.1 brain-derived neurotrophic factor isoform X2 [Cavia porcellus]
+-- Match: XM_023562965.1 PREDICTED: Cavia porcellus brain derived neurotrophic factor (Bdnf), transcript variant X6, mRNA 
+
+246 XP_023418732.1 brain-derived neurotrophic factor isoform X2 [Cavia porcellus]
+-- Match: XM_023562964.1 PREDICTED: Cavia porcellus brain derived neurotrophic factor (Bdnf), transcript variant X5, mRNA 
+
+247 XP_023418731.1 brain-derived neurotrophic factor isoform X2 [Cavia porcellus]
+-- Match: XM_023562963.1 PREDICTED: Cavia porcellus brain derived neurotrophic factor (Bdnf), transcript variant X4, mRNA 
+
+248 XP_023406540.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Loxodonta africana]
+# -- NO Match -- 
+
+249 XP_023362072.1 brain-derived neurotrophic factor isoform X2 [Sarcophilus harrisii]
+-- Match: XM_031944160.1 PREDICTED: Sarcophilus harrisii brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+250 XP_023362071.1 brain-derived neurotrophic factor isoform X2 [Sarcophilus harrisii]
+-- Match: XM_023506303.2 PREDICTED: Sarcophilus harrisii brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+251 XP_023086126.1 brain-derived neurotrophic factor isoform X3 [Piliocolobus tephrosceles]
+-- Match: XM_023230358.2 PREDICTED: Piliocolobus tephrosceles brain derived neurotrophic factor (BDNF), transcript variant X11, mRNA 
+
+252 XP_023086125.1 brain-derived neurotrophic factor isoform X3 [Piliocolobus tephrosceles]
+-- Match: XM_023230355.2 PREDICTED: Piliocolobus tephrosceles brain derived neurotrophic factor (BDNF), transcript variant X9, mRNA 
+
+253 XP_023086124.1 brain-derived neurotrophic factor isoform X3 [Piliocolobus tephrosceles]
+-- Match: XM_023230357.2 PREDICTED: Piliocolobus tephrosceles brain derived neurotrophic factor (BDNF), transcript variant X10, mRNA 
+
+254 XP_023086123.1 brain-derived neurotrophic factor isoform X3 [Piliocolobus tephrosceles]
+-- Match: XM_023230356.2 PREDICTED: Piliocolobus tephrosceles brain derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+255 XP_023086121.1 brain-derived neurotrophic factor isoform X3 [Piliocolobus tephrosceles]
+-- Match: XM_023230353.2 PREDICTED: Piliocolobus tephrosceles brain derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+256 XP_023086120.1 brain-derived neurotrophic factor isoform X3 [Piliocolobus tephrosceles]
+-- Match: XM_023230352.2 PREDICTED: Piliocolobus tephrosceles brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+257 XP_023086119.1 brain-derived neurotrophic factor isoform X3 [Piliocolobus tephrosceles]
+-- Match: XM_023230351.2 PREDICTED: Piliocolobus tephrosceles brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+258 XP_023086118.1 brain-derived neurotrophic factor isoform X3 [Piliocolobus tephrosceles]
+-- Match: XM_023230350.2 PREDICTED: Piliocolobus tephrosceles brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+259 XP_023086117.1 brain-derived neurotrophic factor isoform X3 [Piliocolobus tephrosceles]
+-- Match: XM_023230349.2 PREDICTED: Piliocolobus tephrosceles brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+260 XP_023086116.1 brain-derived neurotrophic factor isoform X2 [Piliocolobus tephrosceles]
+-- Match: XM_023230348.2 PREDICTED: Piliocolobus tephrosceles brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+261 XP_023086115.1 brain-derived neurotrophic factor isoform X1 [Piliocolobus tephrosceles]
+-- Match: XM_023230347.2 PREDICTED: Piliocolobus tephrosceles brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+262 XP_022439441.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Delphinapterus leucas]
+-- Match: XM_022583733.1 PREDICTED: Delphinapterus leucas brain derived neurotrophic factor (BDNF), mRNA 
+
+263 XP_022363282.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Enhydra lutris kenyoni]
+# -- NO Match -- 
+
+264 XP_021564626.1 brain-derived neurotrophic factor [Carlito syrichta]
+-- Match: XM_021708951.1 PREDICTED: Carlito syrichta brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+265 XP_021564624.1 brain-derived neurotrophic factor [Carlito syrichta]
+-- Match: XM_021708949.1 PREDICTED: Carlito syrichta brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+266 XP_021541556.1 brain-derived neurotrophic factor [Neomonachus schauinslandi]
+-- Match: XM_021685881.1 PREDICTED: Neomonachus schauinslandi brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+267 XP_021541555.1 brain-derived neurotrophic factor [Neomonachus schauinslandi]
+-- Match: XM_021685880.1 PREDICTED: Neomonachus schauinslandi brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+268 XP_021006895.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Mus caroli]
+-- Match: XM_021151236.2 PREDICTED: Mus caroli brain derived neurotrophic factor (Bdnf), mRNA 
+
+269 XP_021048488.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Mus pahari]
+-- Match: XM_021192829.2 PREDICTED: Mus pahari brain derived neurotrophic factor (Bdnf), mRNA 
+
+270 XP_020937070.1 brain-derived neurotrophic factor isoform X2 [Sus scrofa]
+-- Match: XM_005654686.3 PREDICTED: Sus scrofa brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+271 XP_020833639.1 brain-derived neurotrophic factor isoform X3 [Phascolarctos cinereus]
+-- Match: XM_020977980.1 PREDICTED: Phascolarctos cinereus brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+272 XP_020833638.1 brain-derived neurotrophic factor isoform X3 [Phascolarctos cinereus]
+-- Match: XM_020977979.1 PREDICTED: Phascolarctos cinereus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+273 XP_020833637.1 brain-derived neurotrophic factor isoform X3 [Phascolarctos cinereus]
+-- Match: XM_020977978.1 PREDICTED: Phascolarctos cinereus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+274 XP_020833636.1 brain-derived neurotrophic factor isoform X2 [Phascolarctos cinereus]
+-- Match: XM_020977977.1 PREDICTED: Phascolarctos cinereus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+275 XP_020833635.1 brain-derived neurotrophic factor isoform X1 [Phascolarctos cinereus]
+-- Match: XM_020977976.1 PREDICTED: Phascolarctos cinereus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+276 XP_020758920.1 brain-derived neurotrophic factor isoform X2 [Odocoileus virginianus texanus]
+-- Match: XM_020903261.1 PREDICTED: Odocoileus virginianus texanus brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+277 XP_020758919.1 brain-derived neurotrophic factor isoform X2 [Odocoileus virginianus texanus]
+-- Match: XM_020903260.1 PREDICTED: Odocoileus virginianus texanus brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+278 XP_020758918.1 brain-derived neurotrophic factor isoform X2 [Odocoileus virginianus texanus]
+-- Match: XM_020903259.1 PREDICTED: Odocoileus virginianus texanus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+279 XP_020758917.1 brain-derived neurotrophic factor isoform X2 [Odocoileus virginianus texanus]
+-- Match: XM_020903258.1 PREDICTED: Odocoileus virginianus texanus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+280 XP_020758916.1 brain-derived neurotrophic factor isoform X2 [Odocoileus virginianus texanus]
+-- Match: XM_020903257.1 PREDICTED: Odocoileus virginianus texanus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+281 XP_020758915.1 brain-derived neurotrophic factor isoform X1 [Odocoileus virginianus texanus]
+-- Match: XM_020903256.1 PREDICTED: Odocoileus virginianus texanus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+282 XP_020142129.1 brain-derived neurotrophic factor isoform X4 [Microcebus murinus]
+-- Match: XM_020286540.1 PREDICTED: Microcebus murinus brain derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+283 XP_020142128.1 brain-derived neurotrophic factor isoform X4 [Microcebus murinus]
+-- Match: XM_020286539.1 PREDICTED: Microcebus murinus brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+284 XP_020142127.1 brain-derived neurotrophic factor isoform X4 [Microcebus murinus]
+-- Match: XM_020286538.1 PREDICTED: Microcebus murinus brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+285 XP_020142126.1 brain-derived neurotrophic factor isoform X4 [Microcebus murinus]
+-- Match: XM_020286537.1 PREDICTED: Microcebus murinus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+286 XP_020142125.1 brain-derived neurotrophic factor isoform X3 [Microcebus murinus]
+-- Match: XM_020286536.1 PREDICTED: Microcebus murinus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+287 XP_020142124.1 brain-derived neurotrophic factor isoform X2 [Microcebus murinus]
+-- Match: XM_020286535.1 PREDICTED: Microcebus murinus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+288 XP_020142123.1 brain-derived neurotrophic factor isoform X1 [Microcebus murinus]
+-- Match: XM_020286534.1 PREDICTED: Microcebus murinus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+289 XP_020032904.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Castor canadensis]
+-- Match: XM_020177315.1 PREDICTED: Castor canadensis brain derived neurotrophic factor (Bdnf), mRNA 
+
+290 XP_019803445.1 brain-derived neurotrophic factor isoform X2 [Tursiops truncatus]
+-- Match: XM_019947886.2 PREDICTED: Tursiops truncatus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+291 XP_019803444.1 brain-derived neurotrophic factor isoform X2 [Tursiops truncatus]
+-- Match: XM_019947885.2 PREDICTED: Tursiops truncatus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+292 XP_019803443.1 brain-derived neurotrophic factor isoform X2 [Tursiops truncatus]
+-- Match: XM_019947884.2 PREDICTED: Tursiops truncatus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+293 XP_019803442.1 brain-derived neurotrophic factor isoform X1 [Tursiops truncatus]
+-- Match: XM_019947883.2 PREDICTED: Tursiops truncatus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+294 XP_019830081.1 PREDICTED: brain-derived neurotrophic factor [Bos indicus]
+-- Match: XM_019974522.1 PREDICTED: Bos indicus brain derived neurotrophic factor (BDNF), mRNA 
+
+295 XP_011224782.2 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Ailuropoda melanoleuca]
+-- Match: XM_011226480.3 PREDICTED: Ailuropoda melanoleuca brain derived neurotrophic factor (BDNF), mRNA 
+
+296 XP_019506268.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Hipposideros armiger]
+-- Match: XM_019650723.1 PREDICTED: Hipposideros armiger brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+297 XP_019506267.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Hipposideros armiger]
+-- Match: XM_019650722.1 PREDICTED: Hipposideros armiger brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+298 XP_019506266.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Hipposideros armiger]
+-- Match: XM_019650721.1 PREDICTED: Hipposideros armiger brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+299 XP_019506265.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Hipposideros armiger]
+-- Match: XM_019650720.1 PREDICTED: Hipposideros armiger brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+300 XP_019506264.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Hipposideros armiger]
+-- Match: XM_019650719.1 PREDICTED: Hipposideros armiger brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+301 XP_019506263.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Hipposideros armiger]
+-- Match: XM_019650718.1 PREDICTED: Hipposideros armiger brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+302 XP_019312122.1 PREDICTED: LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Panthera pardus]
+# -- NO Match -- 
+
+303 XP_018892897.1 brain-derived neurotrophic factor isoform X5 [Gorilla gorilla gorilla]
+-- Match: XM_031015955.1 PREDICTED: Gorilla gorilla gorilla brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+304 XP_005690084.2 PREDICTED: brain-derived neurotrophic factor isoform X2 [Capra hircus]
+-- Match: XM_005690027.2 PREDICTED: Capra hircus brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+305 XP_005690083.2 PREDICTED: brain-derived neurotrophic factor isoform X2 [Capra hircus]
+-- Match: XM_005690026.2 PREDICTED: Capra hircus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+306 XP_013825294.2 PREDICTED: brain-derived neurotrophic factor isoform X2 [Capra hircus]
+-- Match: XM_013969840.2 PREDICTED: Capra hircus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+307 XP_017914792.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Capra hircus]
+-- Match: XM_018059303.1 PREDICTED: Capra hircus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+308 XP_005690082.2 PREDICTED: brain-derived neurotrophic factor isoform X1 [Capra hircus]
+-- Match: XM_005690025.2 PREDICTED: Capra hircus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+309 XP_017804035.1 brain-derived neurotrophic factor isoform X5 [Papio anubis]
+-- Match: XM_017948546.3 PREDICTED: Papio anubis brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+310 XP_017804031.1 brain-derived neurotrophic factor isoform X4 [Papio anubis]
+-- Match: XM_017948542.3 PREDICTED: Papio anubis brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+311 XP_017804030.1 brain-derived neurotrophic factor isoform X4 [Papio anubis]
+-- Match: XM_017948541.3 PREDICTED: Papio anubis brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+312 XP_017804029.1 brain-derived neurotrophic factor isoform X3 [Papio anubis]
+-- Match: XM_017948540.3 PREDICTED: Papio anubis brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+313 XP_017804027.1 brain-derived neurotrophic factor isoform X2 [Papio anubis]
+-- Match: XM_017948538.3 PREDICTED: Papio anubis brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+314 XP_017804026.1 brain-derived neurotrophic factor isoform X1 [Papio anubis]
+-- Match: XM_017948537.3 PREDICTED: Papio anubis brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+315 XP_017714297.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Rhinopithecus bieti]
+-- Match: XM_017858808.1 PREDICTED: Rhinopithecus bieti brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+316 XP_017714296.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Rhinopithecus bieti]
+-- Match: XM_017858807.1 PREDICTED: Rhinopithecus bieti brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+317 XP_017714295.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Rhinopithecus bieti]
+-- Match: XM_017858806.1 PREDICTED: Rhinopithecus bieti brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+318 XP_017714294.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Rhinopithecus bieti]
+-- Match: XM_017858805.1 PREDICTED: Rhinopithecus bieti brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+319 XP_017394212.1 brain-derived neurotrophic factor isoform X3 [Cebus imitator]
+-- Match: XM_017538723.2 PREDICTED: Cebus imitator brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+320 XP_017394211.1 brain-derived neurotrophic factor isoform X1 [Cebus imitator]
+-- Match: XM_017538722.1 PREDICTED: Cebus imitator brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+321 XP_017201122.1 PREDICTED: LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Oryctolagus cuniculus]
+# -- NO Match -- 
+
+322 XP_016049728.1 PREDICTED: brain-derived neurotrophic factor [Erinaceus europaeus]
+-- Match: XM_016194242.1 PREDICTED: Erinaceus europaeus brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+323 XP_016049727.1 PREDICTED: brain-derived neurotrophic factor [Erinaceus europaeus]
+-- Match: XM_016194241.1 PREDICTED: Erinaceus europaeus brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+324 XP_016061644.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Miniopterus natalensis]
+-- Match: XM_016206158.1 PREDICTED: Miniopterus natalensis brain-derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+325 XP_016061643.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Miniopterus natalensis]
+-- Match: XM_016206157.1 PREDICTED: Miniopterus natalensis brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+326 XP_016061642.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Miniopterus natalensis]
+-- Match: XM_016206156.1 PREDICTED: Miniopterus natalensis brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+327 XP_016061641.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Miniopterus natalensis]
+-- Match: XM_016206155.1 PREDICTED: Miniopterus natalensis brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+328 XP_016061640.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Miniopterus natalensis]
+-- Match: XM_016206154.1 PREDICTED: Miniopterus natalensis brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+329 XP_015441919.1 brain-derived neurotrophic factor isoform X2 [Pteropus alecto]
+-- Match: XM_006907990.2 PREDICTED: Pteropus alecto brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+330 XP_015400355.1 PREDICTED: brain-derived neurotrophic factor [Panthera tigris altaica]
+-- Match: XM_015544869.1 PREDICTED: Panthera tigris altaica brain-derived neurotrophic factor (BDNF), mRNA 
+
+331 XP_015331975.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Marmota marmota marmota]
+-- Match: XM_015476489.1 PREDICTED: Marmota marmota marmota brain-derived neurotrophic factor (Bdnf), transcript variant X7, mRNA 
+
+332 XP_015331968.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Marmota marmota marmota]
+-- Match: XM_015476482.1 PREDICTED: Marmota marmota marmota brain-derived neurotrophic factor (Bdnf), transcript variant X6, mRNA 
+
+333 XP_015331960.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Marmota marmota marmota]
+-- Match: XM_015476474.1 PREDICTED: Marmota marmota marmota brain-derived neurotrophic factor (Bdnf), transcript variant X5, mRNA 
+
+334 XP_015331954.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Marmota marmota marmota]
+-- Match: XM_015476468.1 PREDICTED: Marmota marmota marmota brain-derived neurotrophic factor (Bdnf), transcript variant X4, mRNA 
+
+335 XP_015331949.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Marmota marmota marmota]
+-- Match: XM_015476463.1 PREDICTED: Marmota marmota marmota brain-derived neurotrophic factor (Bdnf), transcript variant X3, mRNA 
+
+336 XP_015331943.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Marmota marmota marmota]
+-- Match: XM_015476457.1 PREDICTED: Marmota marmota marmota brain-derived neurotrophic factor (Bdnf), transcript variant X2, mRNA 
+
+337 XP_015331935.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Marmota marmota marmota]
+-- Match: XM_015476449.1 PREDICTED: Marmota marmota marmota brain-derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+338 XP_014970088.1 brain-derived neurotrophic factor isoform X4 [Macaca mulatta]
+-- Match: XM_015114602.2 PREDICTED: Macaca mulatta brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+339 XP_014970087.1 brain-derived neurotrophic factor isoform X3 [Macaca mulatta]
+-- Match: XM_015114601.2 PREDICTED: Macaca mulatta brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+340 XP_014970086.1 brain-derived neurotrophic factor isoform X3 [Macaca mulatta]
+-- Match: XM_015114600.2 PREDICTED: Macaca mulatta brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+341 XP_014970085.1 brain-derived neurotrophic factor isoform X2 [Macaca mulatta]
+-- Match: XM_015114599.2 PREDICTED: Macaca mulatta brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+342 XP_014970084.1 brain-derived neurotrophic factor isoform X1 [Macaca mulatta]
+-- Match: XM_015114598.2 PREDICTED: Macaca mulatta brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+343 XP_014686949.1 PREDICTED: brain-derived neurotrophic factor [Equus asinus]
+-- Match: XM_014831463.1 PREDICTED: Equus asinus brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+344 XP_014686948.1 PREDICTED: brain-derived neurotrophic factor [Equus asinus]
+-- Match: XM_014831462.1 PREDICTED: Equus asinus brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+345 XP_014639172.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Ceratotherium simum simum]
+-- Match: XM_004418545.2 PREDICTED: Ceratotherium simum simum brain-derived neurotrophic factor (LOC101398458), transcript variant X4, mRNA 
+
+346 XP_014446789.1 brain-derived neurotrophic factor [Tupaia chinensis]
+-- Match: XM_014591303.2 PREDICTED: Tupaia chinensis brain derived neurotrophic factor (BDNF), mRNA 
+
+347 XP_014400709.1 PREDICTED: LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Myotis brandtii]
+-- Match: XM_014545223.1 PREDICTED: Myotis brandtii brain-derived neurotrophic factor (BDNF), mRNA 
+
+348 NP_001303239.1 brain-derived neurotrophic factor isoform 2 preproprotein [Mus musculus]
+-- Match: NM_001316310.1 Mus musculus brain derived neurotrophic factor (Bdnf), transcript variant 12, mRNA 
+
+349 XP_013842732.1 brain-derived neurotrophic factor isoform X2 [Sus scrofa]
+-- Match: XM_021081411.1 PREDICTED: Sus scrofa brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+350 XP_013358469.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Chinchilla lanigera]
+-- Match: XM_013503015.1 PREDICTED: Chinchilla lanigera brain-derived neurotrophic factor (Bdnf), transcript variant X5, mRNA 
+
+351 XP_013358468.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Chinchilla lanigera]
+-- Match: XM_005401753.2 PREDICTED: Chinchilla lanigera brain-derived neurotrophic factor (Bdnf), transcript variant X4, mRNA 
+
+352 XP_013002718.1 brain-derived neurotrophic factor isoform X2 [Cavia porcellus]
+-- Match: XM_013147264.2 PREDICTED: Cavia porcellus brain derived neurotrophic factor (Bdnf), transcript variant X3, mRNA 
+
+353 XP_013002716.1 brain-derived neurotrophic factor isoform X1 [Cavia porcellus]
+-- Match: XM_013147262.2 PREDICTED: Cavia porcellus brain derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+354 XP_012930018.1 brain-derived neurotrophic factor isoform X2 [Heterocephalus glaber]
+-- Match: XM_004851582.2 PREDICTED: Heterocephalus glaber brain derived neurotrophic factor (Bdnf), transcript variant X3, mRNA 
+
+355 XP_012875050.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Dipodomys ordii]
+-- Match: XM_013019596.1 PREDICTED: Dipodomys ordii brain-derived neurotrophic factor (Bdnf), transcript variant X4, mRNA 
+
+356 XP_012875049.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Dipodomys ordii]
+-- Match: XM_013019595.1 PREDICTED: Dipodomys ordii brain-derived neurotrophic factor (Bdnf), transcript variant X3, mRNA 
+
+357 XP_012875047.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Dipodomys ordii]
+-- Match: XM_013019593.1 PREDICTED: Dipodomys ordii brain-derived neurotrophic factor (Bdnf), transcript variant X2, mRNA 
+
+358 XP_012875046.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Dipodomys ordii]
+-- Match: XM_013019592.1 PREDICTED: Dipodomys ordii brain-derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+359 XP_012669579.1 brain-derived neurotrophic factor isoform X5 [Otolemur garnettii]
+-- Match: XM_012814125.1 PREDICTED: Otolemur garnettii brain derived neurotrophic factor (BDNF), transcript variant X11, mRNA 
+
+360 XP_012669572.1 brain-derived neurotrophic factor isoform X5 [Otolemur garnettii]
+-- Match: XM_012814118.1 PREDICTED: Otolemur garnettii brain derived neurotrophic factor (BDNF), transcript variant X9, mRNA 
+
+361 XP_012669567.1 brain-derived neurotrophic factor isoform X5 [Otolemur garnettii]
+-- Match: XM_012814113.1 PREDICTED: Otolemur garnettii brain derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+362 XP_012669564.1 brain-derived neurotrophic factor isoform X5 [Otolemur garnettii]
+-- Match: XM_012814110.1 PREDICTED: Otolemur garnettii brain derived neurotrophic factor (BDNF), transcript variant X10, mRNA 
+
+363 XP_012669559.1 brain-derived neurotrophic factor isoform X5 [Otolemur garnettii]
+-- Match: XM_012814105.1 PREDICTED: Otolemur garnettii brain derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+364 XP_012669558.1 brain-derived neurotrophic factor isoform X5 [Otolemur garnettii]
+-- Match: XM_012814104.1 PREDICTED: Otolemur garnettii brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+365 XP_012669556.1 brain-derived neurotrophic factor isoform X5 [Otolemur garnettii]
+-- Match: XM_012814102.1 PREDICTED: Otolemur garnettii brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+366 XP_012669551.1 brain-derived neurotrophic factor isoform X4 [Otolemur garnettii]
+-- Match: XM_012814097.1 PREDICTED: Otolemur garnettii brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+367 XP_012669501.1 brain-derived neurotrophic factor isoform X1 [Otolemur garnettii]
+-- Match: XM_012814047.1 PREDICTED: Otolemur garnettii brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+368 XP_012581123.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Condylura cristata]
+-- Match: XM_012725669.1 PREDICTED: Condylura cristata brain-derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+369 XP_012581122.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Condylura cristata]
+-- Match: XM_012725668.1 PREDICTED: Condylura cristata brain-derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+370 XP_012505023.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Propithecus coquereli]
+-- Match: XM_012649569.1 PREDICTED: Propithecus coquereli brain-derived neurotrophic factor (BDNF), transcript variant X13, mRNA 
+
+371 XP_012505022.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Propithecus coquereli]
+-- Match: XM_012649568.1 PREDICTED: Propithecus coquereli brain-derived neurotrophic factor (BDNF), transcript variant X12, mRNA 
+
+372 XP_012505021.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Propithecus coquereli]
+-- Match: XM_012649567.1 PREDICTED: Propithecus coquereli brain-derived neurotrophic factor (BDNF), transcript variant X11, mRNA 
+
+373 XP_012505020.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Propithecus coquereli]
+-- Match: XM_012649566.1 PREDICTED: Propithecus coquereli brain-derived neurotrophic factor (BDNF), transcript variant X10, mRNA 
+
+374 XP_012505018.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Propithecus coquereli]
+-- Match: XM_012649564.1 PREDICTED: Propithecus coquereli brain-derived neurotrophic factor (BDNF), transcript variant X9, mRNA 
+
+375 XP_012505017.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Propithecus coquereli]
+-- Match: XM_012649563.1 PREDICTED: Propithecus coquereli brain-derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+376 XP_012505016.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Propithecus coquereli]
+-- Match: XM_012649562.1 PREDICTED: Propithecus coquereli brain-derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+377 XP_012505015.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Propithecus coquereli]
+-- Match: XM_012649561.1 PREDICTED: Propithecus coquereli brain-derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+378 XP_012505014.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Propithecus coquereli]
+-- Match: XM_012649560.1 PREDICTED: Propithecus coquereli brain-derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+379 XP_012505013.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Propithecus coquereli]
+-- Match: XM_012649559.1 PREDICTED: Propithecus coquereli brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+380 XP_012505012.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Propithecus coquereli]
+-- Match: XM_012649558.1 PREDICTED: Propithecus coquereli brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+381 XP_012505011.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Propithecus coquereli]
+-- Match: XM_012649557.1 PREDICTED: Propithecus coquereli brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+382 XP_012505010.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Propithecus coquereli]
+-- Match: XM_012649556.1 PREDICTED: Propithecus coquereli brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+383 XP_012379058.1 brain-derived neurotrophic factor [Dasypus novemcinctus]
+-- Match: XM_012523604.2 PREDICTED: Dasypus novemcinctus brain derived neurotrophic factor (BDNF), mRNA 
+
+384 XP_012307669.1 brain-derived neurotrophic factor isoform X5 [Aotus nancymaae]
+-- Match: XM_012452246.1 PREDICTED: Aotus nancymaae brain derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+385 XP_012307668.1 brain-derived neurotrophic factor isoform X5 [Aotus nancymaae]
+-- Match: XM_012452245.1 PREDICTED: Aotus nancymaae brain derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+386 XP_012307667.1 brain-derived neurotrophic factor isoform X5 [Aotus nancymaae]
+-- Match: XM_012452244.1 PREDICTED: Aotus nancymaae brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+387 XP_012307666.1 brain-derived neurotrophic factor isoform X5 [Aotus nancymaae]
+-- Match: XM_012452243.1 PREDICTED: Aotus nancymaae brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+388 XP_012307665.1 brain-derived neurotrophic factor isoform X4 [Aotus nancymaae]
+-- Match: XM_012452242.1 PREDICTED: Aotus nancymaae brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+389 XP_012307664.1 brain-derived neurotrophic factor isoform X3 [Aotus nancymaae]
+-- Match: XM_012452241.1 PREDICTED: Aotus nancymaae brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+390 XP_012307662.1 brain-derived neurotrophic factor isoform X2 [Aotus nancymaae]
+-- Match: XM_012452239.1 PREDICTED: Aotus nancymaae brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+391 XP_012307661.1 brain-derived neurotrophic factor isoform X1 [Aotus nancymaae]
+-- Match: XM_012452238.1 PREDICTED: Aotus nancymaae brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+392 XP_011708612.1 brain-derived neurotrophic factor isoform X1 [Macaca nemestrina]
+-- Match: XM_011710310.2 PREDICTED: Macaca nemestrina brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+393 XP_011708611.1 brain-derived neurotrophic factor isoform X4 [Macaca nemestrina]
+-- Match: XM_011710307.2 PREDICTED: Macaca nemestrina brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+394 XP_011708610.1 brain-derived neurotrophic factor isoform X4 [Macaca nemestrina]
+-- Match: XM_011710309.1 PREDICTED: Macaca nemestrina brain derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+395 XP_011708609.1 brain-derived neurotrophic factor isoform X4 [Macaca nemestrina]
+-- Match: XM_011710308.1 PREDICTED: Macaca nemestrina brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+396 XP_011708608.1 brain-derived neurotrophic factor isoform X4 [Macaca nemestrina]
+-- Match: XM_011710306.1 PREDICTED: Macaca nemestrina brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+397 XP_011708607.1 brain-derived neurotrophic factor isoform X3 [Macaca nemestrina]
+-- Match: XM_011710305.1 PREDICTED: Macaca nemestrina brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+398 XP_011708606.1 brain-derived neurotrophic factor isoform X2 [Macaca nemestrina]
+-- Match: XM_011710304.1 PREDICTED: Macaca nemestrina brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+399 XP_011887095.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Cercocebus atys]
+-- Match: XM_012031705.1 PREDICTED: Cercocebus atys brain-derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+400 XP_011887094.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Cercocebus atys]
+-- Match: XM_012031704.1 PREDICTED: Cercocebus atys brain-derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+401 XP_011887092.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Cercocebus atys]
+-- Match: XM_012031702.1 PREDICTED: Cercocebus atys brain-derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+402 XP_011887091.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Cercocebus atys]
+-- Match: XM_012031701.1 PREDICTED: Cercocebus atys brain-derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+403 XP_011887090.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Cercocebus atys]
+-- Match: XM_012031700.1 PREDICTED: Cercocebus atys brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+404 XP_011887089.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Cercocebus atys]
+-- Match: XM_012031699.1 PREDICTED: Cercocebus atys brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+405 XP_011887088.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Cercocebus atys]
+-- Match: XM_012031698.1 PREDICTED: Cercocebus atys brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+406 XP_011887087.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Cercocebus atys]
+-- Match: XM_012031697.1 PREDICTED: Cercocebus atys brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+407 XP_011820116.1 PREDICTED: brain-derived neurotrophic factor isoform X6 [Mandrillus leucophaeus]
+-- Match: XM_011964726.1 PREDICTED: Mandrillus leucophaeus brain-derived neurotrophic factor (BDNF), transcript variant X11, mRNA 
+
+408 XP_011820114.1 PREDICTED: brain-derived neurotrophic factor isoform X6 [Mandrillus leucophaeus]
+-- Match: XM_011964724.1 PREDICTED: Mandrillus leucophaeus brain-derived neurotrophic factor (BDNF), transcript variant X10, mRNA 
+
+409 XP_011820113.1 PREDICTED: brain-derived neurotrophic factor isoform X6 [Mandrillus leucophaeus]
+-- Match: XM_011964723.1 PREDICTED: Mandrillus leucophaeus brain-derived neurotrophic factor (BDNF), transcript variant X9, mRNA 
+
+410 XP_011820112.1 PREDICTED: brain-derived neurotrophic factor isoform X6 [Mandrillus leucophaeus]
+-- Match: XM_011964722.1 PREDICTED: Mandrillus leucophaeus brain-derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+411 XP_011820111.1 PREDICTED: brain-derived neurotrophic factor isoform X6 [Mandrillus leucophaeus]
+-- Match: XM_011964721.1 PREDICTED: Mandrillus leucophaeus brain-derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+412 XP_011820110.1 PREDICTED: brain-derived neurotrophic factor isoform X6 [Mandrillus leucophaeus]
+-- Match: XM_011964720.1 PREDICTED: Mandrillus leucophaeus brain-derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+413 XP_011820109.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Mandrillus leucophaeus]
+-- Match: XM_011964719.1 PREDICTED: Mandrillus leucophaeus brain-derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+414 XP_011820108.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Mandrillus leucophaeus]
+-- Match: XM_011964718.1 PREDICTED: Mandrillus leucophaeus brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+415 XP_011820107.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Mandrillus leucophaeus]
+-- Match: XM_011964717.1 PREDICTED: Mandrillus leucophaeus brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+416 XP_011820106.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Mandrillus leucophaeus]
+-- Match: XM_011964716.1 PREDICTED: Mandrillus leucophaeus brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+417 XP_011820105.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Mandrillus leucophaeus]
+-- Match: XM_011964715.1 PREDICTED: Mandrillus leucophaeus brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+418 XP_011791709.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Colobus angolensis palliatus]
+-- Match: XM_011936319.1 PREDICTED: Colobus angolensis palliatus brain-derived neurotrophic factor (BDNF), transcript variant X12, mRNA 
+
+419 XP_011791708.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Colobus angolensis palliatus]
+-- Match: XM_011936318.1 PREDICTED: Colobus angolensis palliatus brain-derived neurotrophic factor (BDNF), transcript variant X11, mRNA 
+
+420 XP_011791707.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Colobus angolensis palliatus]
+-- Match: XM_011936317.1 PREDICTED: Colobus angolensis palliatus brain-derived neurotrophic factor (BDNF), transcript variant X10, mRNA 
+
+421 XP_011791706.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Colobus angolensis palliatus]
+-- Match: XM_011936316.1 PREDICTED: Colobus angolensis palliatus brain-derived neurotrophic factor (BDNF), transcript variant X9, mRNA 
+
+422 XP_011791705.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Colobus angolensis palliatus]
+-- Match: XM_011936315.1 PREDICTED: Colobus angolensis palliatus brain-derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+423 XP_011791704.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Colobus angolensis palliatus]
+-- Match: XM_011936314.1 PREDICTED: Colobus angolensis palliatus brain-derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+424 XP_011791703.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Colobus angolensis palliatus]
+-- Match: XM_011936313.1 PREDICTED: Colobus angolensis palliatus brain-derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+425 XP_011791702.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Colobus angolensis palliatus]
+-- Match: XM_011936312.1 PREDICTED: Colobus angolensis palliatus brain-derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+426 XP_011791701.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Colobus angolensis palliatus]
+-- Match: XM_011936311.1 PREDICTED: Colobus angolensis palliatus brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+427 XP_011791699.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Colobus angolensis palliatus]
+-- Match: XM_011936309.1 PREDICTED: Colobus angolensis palliatus brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+428 XP_011791698.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Colobus angolensis palliatus]
+-- Match: XM_011936308.1 PREDICTED: Colobus angolensis palliatus brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+429 XP_011791697.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Colobus angolensis palliatus]
+-- Match: XM_011936307.1 PREDICTED: Colobus angolensis palliatus brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+430 XP_011518582.1 brain-derived neurotrophic factor isoform X1 [Homo sapiens]
+-- Match: NM_001143810.2 Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant 18, mRNA 
+
+431 XP_011360871.1 brain-derived neurotrophic factor isoform X2 [Pteropus vampyrus]
+-- Match: XM_011362569.2 PREDICTED: Pteropus vampyrus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+432 XP_011360870.1 brain-derived neurotrophic factor isoform X2 [Pteropus vampyrus]
+-- Match: XM_011362565.2 PREDICTED: Pteropus vampyrus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+433 XP_011360869.1 brain-derived neurotrophic factor isoform X2 [Pteropus vampyrus]
+-- Match: XM_011362568.1 PREDICTED: Pteropus vampyrus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+434 XP_011360867.1 brain-derived neurotrophic factor isoform X1 [Pteropus vampyrus]
+# -- NO Match -- 
+
+435 XP_010963048.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Camelus bactrianus]
+-- Match: XM_010964746.1 PREDICTED: Camelus bactrianus brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+436 XP_010963047.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Camelus bactrianus]
+-- Match: XM_010964745.1 PREDICTED: Camelus bactrianus brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+437 XP_010963045.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Camelus bactrianus]
+-- Match: XM_010964743.1 PREDICTED: Camelus bactrianus brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+438 XP_010830091.1 PREDICTED: brain-derived neurotrophic factor [Bison bison bison]
+-- Match: XM_010831789.1 PREDICTED: Bison bison bison brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+439 XP_010830090.1 PREDICTED: brain-derived neurotrophic factor [Bison bison bison]
+-- Match: XM_010831788.1 PREDICTED: Bison bison bison brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+440 XP_010329749.1 brain-derived neurotrophic factor isoform X2 [Saimiri boliviensis boliviensis]
+-- Match: XM_003919943.3 PREDICTED: Saimiri boliviensis boliviensis brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+441 XP_003919989.2 brain-derived neurotrophic factor isoform X1 [Saimiri boliviensis boliviensis]
+-- Match: XM_003919940.3 PREDICTED: Saimiri boliviensis boliviensis brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+442 XP_010372835.1 brain-derived neurotrophic factor isoform X3 [Rhinopithecus roxellana]
+-- Match: XM_010374532.2 PREDICTED: Rhinopithecus roxellana brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+443 XP_010372834.1 brain-derived neurotrophic factor isoform X3 [Rhinopithecus roxellana]
+-- Match: XM_030918921.1 PREDICTED: Rhinopithecus roxellana brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+444 XP_010372833.1 brain-derived neurotrophic factor isoform X3 [Rhinopithecus roxellana]
+-- Match: XM_010374531.2 PREDICTED: Rhinopithecus roxellana brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+445 XP_010372832.1 brain-derived neurotrophic factor isoform X2 [Rhinopithecus roxellana]
+-- Match: XM_010374530.2 PREDICTED: Rhinopithecus roxellana brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+446 XP_010372831.1 brain-derived neurotrophic factor isoform X1 [Rhinopithecus roxellana]
+-- Match: XM_010374529.2 PREDICTED: Rhinopithecus roxellana brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+447 XP_009244789.1 brain-derived neurotrophic factor isoform X4 [Pongo abelii]
+-- Match: XM_009246514.2 PREDICTED: Pongo abelii brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+448 XP_009244788.1 brain-derived neurotrophic factor isoform X4 [Pongo abelii]
+-- Match: XM_009246513.2 PREDICTED: Pongo abelii brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+449 XP_009244787.1 brain-derived neurotrophic factor isoform X3 [Pongo abelii]
+-- Match: XM_009246512.2 PREDICTED: Pongo abelii brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+450 XP_009244786.1 brain-derived neurotrophic factor isoform X2 [Pongo abelii]
+-- Match: XM_009246511.2 PREDICTED: Pongo abelii brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+451 XP_008954141.1 brain-derived neurotrophic factor isoform X4 [Pan paniscus]
+-- Match: XM_008955893.2 PREDICTED: Pan paniscus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+452 XP_008954139.1 brain-derived neurotrophic factor isoform X3 [Pan paniscus]
+-- Match: XM_008955891.2 PREDICTED: Pan paniscus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+453 XP_009006106.1 brain-derived neurotrophic factor isoform X5 [Callithrix jacchus]
+-- Match: XM_009007858.2 PREDICTED: Callithrix jacchus brain derived neurotrophic factor (BDNF), transcript variant X9, mRNA 
+
+454 XP_009006102.1 brain-derived neurotrophic factor isoform X1 [Callithrix jacchus]
+-- Match: XM_009007854.3 PREDICTED: Callithrix jacchus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+455 XP_008849377.1 brain-derived neurotrophic factor isoform X4 [Nannospalax galili]
+-- Match: XM_008851150.2 PREDICTED: Nannospalax galili brain derived neurotrophic factor (Bdnf), transcript variant X6, mRNA 
+
+456 XP_008849372.1 brain-derived neurotrophic factor isoform X4 [Nannospalax galili]
+-- Match: XM_008851145.2 PREDICTED: Nannospalax galili brain derived neurotrophic factor (Bdnf), transcript variant X5, mRNA 
+
+457 XP_008849367.1 brain-derived neurotrophic factor isoform X4 [Nannospalax galili]
+-- Match: XM_008851155.2 PREDICTED: Nannospalax galili brain derived neurotrophic factor (Bdnf), transcript variant X4, mRNA 
+
+458 XP_008849361.1 brain-derived neurotrophic factor isoform X3 [Nannospalax galili]
+-- Match: XM_008851139.2 PREDICTED: Nannospalax galili brain derived neurotrophic factor (Bdnf), transcript variant X3, mRNA 
+
+459 XP_008685102.1 PREDICTED: LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Ursus maritimus]
+-- Match: XM_008686880.1 PREDICTED: Ursus maritimus brain-derived neurotrophic factor (BDNF), mRNA 
+
+460 XP_008582444.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Galeopterus variegatus]
+-- Match: XM_008584222.1 PREDICTED: Galeopterus variegatus brain-derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+461 XP_008582436.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Galeopterus variegatus]
+-- Match: XM_008584214.1 PREDICTED: Galeopterus variegatus brain-derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+462 XP_008582427.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Galeopterus variegatus]
+-- Match: XM_008584205.1 PREDICTED: Galeopterus variegatus brain-derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+463 XP_008582418.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Galeopterus variegatus]
+-- Match: XM_008584196.1 PREDICTED: Galeopterus variegatus brain-derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+464 XP_008582413.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Galeopterus variegatus]
+-- Match: XM_008584191.1 PREDICTED: Galeopterus variegatus brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+465 XP_008582404.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Galeopterus variegatus]
+-- Match: XM_008584182.1 PREDICTED: Galeopterus variegatus brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+466 XP_008582396.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Galeopterus variegatus]
+-- Match: XM_008584174.1 PREDICTED: Galeopterus variegatus brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+467 XP_008582387.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Galeopterus variegatus]
+-- Match: XM_008584165.1 PREDICTED: Galeopterus variegatus brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+468 XP_008521090.1 PREDICTED: brain-derived neurotrophic factor [Equus przewalskii]
+-- Match: XM_008522868.1 PREDICTED: Equus przewalskii brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+469 XP_008521077.1 PREDICTED: brain-derived neurotrophic factor [Equus przewalskii]
+-- Match: XR_545301.1 PREDICTED: Equus przewalskii brain-derived neurotrophic factor (BDNF), transcript variant X2, misc_RNA 
+
+470 XP_008147173.1 brain-derived neurotrophic factor isoform X3 [Eptesicus fuscus]
+-- Match: XM_008148950.2 PREDICTED: Eptesicus fuscus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+471 XP_008147172.1 brain-derived neurotrophic factor isoform X3 [Eptesicus fuscus]
+-- Match: XM_008148951.2 PREDICTED: Eptesicus fuscus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+472 XP_008147170.1 brain-derived neurotrophic factor isoform X2 [Eptesicus fuscus]
+-- Match: XM_008148948.2 PREDICTED: Eptesicus fuscus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+473 XP_008147169.1 brain-derived neurotrophic factor isoform X1 [Eptesicus fuscus]
+-- Match: XM_008148947.2 PREDICTED: Eptesicus fuscus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+474 XP_008048919.1 brain-derived neurotrophic factor [Carlito syrichta]
+-- Match: XM_008050728.1 PREDICTED: Carlito syrichta brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+475 XP_008048918.1 brain-derived neurotrophic factor [Carlito syrichta]
+-- Match: XM_008050727.1 PREDICTED: Carlito syrichta brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+476 XP_008001910.1 brain-derived neurotrophic factor isoform X3 [Chlorocebus sabaeus]
+-- Match: XM_008003719.2 PREDICTED: Chlorocebus sabaeus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+477 XP_008001903.1 brain-derived neurotrophic factor isoform X3 [Chlorocebus sabaeus]
+-- Match: XM_008003712.2 PREDICTED: Chlorocebus sabaeus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+478 XP_008001894.1 brain-derived neurotrophic factor isoform X1 [Chlorocebus sabaeus]
+-- Match: XM_008003703.2 PREDICTED: Chlorocebus sabaeus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+479 XP_007950147.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Orycteropus afer afer]
+-- Match: XM_007951956.1 PREDICTED: Orycteropus afer afer brain-derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+480 XP_007950146.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Orycteropus afer afer]
+-- Match: XM_007951955.1 PREDICTED: Orycteropus afer afer brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+481 XP_007950145.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Orycteropus afer afer]
+-- Match: XM_007951954.1 PREDICTED: Orycteropus afer afer brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+482 XP_007950144.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Orycteropus afer afer]
+-- Match: XM_007951953.1 PREDICTED: Orycteropus afer afer brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+483 XP_007950143.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Orycteropus afer afer]
+-- Match: XM_007951952.1 PREDICTED: Orycteropus afer afer brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+484 XP_007651358.1 brain-derived neurotrophic factor isoform X3 [Cricetulus griseus]
+-- Match: XM_007653168.4 PREDICTED: Cricetulus griseus brain derived neurotrophic factor (Bdnf), transcript variant X3, mRNA 
+
+485 XP_007651356.1 brain-derived neurotrophic factor isoform X1 [Cricetulus griseus]
+-- Match: XM_007653166.4 PREDICTED: Cricetulus griseus brain derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+486 XP_007497266.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Monodelphis domestica]
+-- Match: XM_007497203.2 PREDICTED: Monodelphis domestica brain-derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+487 XP_007497265.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Monodelphis domestica]
+-- Match: XM_007497202.2 PREDICTED: Monodelphis domestica brain-derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+488 XP_007497264.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Monodelphis domestica]
+-- Match: XM_007497200.2 PREDICTED: Monodelphis domestica brain-derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+489 XP_007497263.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Monodelphis domestica]
+-- Match: XM_007497199.2 PREDICTED: Monodelphis domestica brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+490 XP_007497262.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Monodelphis domestica]
+-- Match: XM_007497198.2 PREDICTED: Monodelphis domestica brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+491 XP_007497261.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Monodelphis domestica]
+-- Match: XM_007497197.2 PREDICTED: Monodelphis domestica brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+492 XP_007497260.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Monodelphis domestica]
+# -- NO Match -- 
+
+493 XP_007497259.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Monodelphis domestica]
+# -- NO Match -- 
+
+494 XP_007497258.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Monodelphis domestica]
+-- Match: XM_007497196.2 PREDICTED: Monodelphis domestica brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+495 XP_007461748.1 PREDICTED: brain-derived neurotrophic factor isoform X8 [Lipotes vexillifer]
+-- Match: XM_007461686.1 PREDICTED: Lipotes vexillifer brain-derived neurotrophic factor (BDNF), transcript variant X8, mRNA 
+
+496 XP_007461747.1 PREDICTED: brain-derived neurotrophic factor isoform X7 [Lipotes vexillifer]
+-- Match: XM_007461685.1 PREDICTED: Lipotes vexillifer brain-derived neurotrophic factor (BDNF), transcript variant X7, mRNA 
+
+497 XP_007461746.1 PREDICTED: brain-derived neurotrophic factor isoform X6 [Lipotes vexillifer]
+-- Match: XM_007461684.1 PREDICTED: Lipotes vexillifer brain-derived neurotrophic factor (BDNF), transcript variant X6, mRNA 
+
+498 XP_007461745.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Lipotes vexillifer]
+-- Match: XM_007461683.1 PREDICTED: Lipotes vexillifer brain-derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+499 XP_007461744.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Lipotes vexillifer]
+-- Match: XM_007461682.1 PREDICTED: Lipotes vexillifer brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+500 XP_007461743.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Lipotes vexillifer]
+-- Match: XM_007461681.1 PREDICTED: Lipotes vexillifer brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+501 XP_007461742.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Lipotes vexillifer]
+-- Match: XM_007461680.1 PREDICTED: Lipotes vexillifer brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+502 XP_007461741.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Lipotes vexillifer]
+-- Match: XM_007461679.1 PREDICTED: Lipotes vexillifer brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+503 XP_007181056.1 brain-derived neurotrophic factor isoform X2 [Balaenoptera acutorostrata scammoni]
+-- Match: XM_007180994.2 PREDICTED: Balaenoptera acutorostrata scammoni brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+504 XP_007181055.1 brain-derived neurotrophic factor isoform X2 [Balaenoptera acutorostrata scammoni]
+-- Match: XM_007180993.1 PREDICTED: Balaenoptera acutorostrata scammoni brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+505 XP_007181054.1 brain-derived neurotrophic factor isoform X2 [Balaenoptera acutorostrata scammoni]
+-- Match: XM_007180992.1 PREDICTED: Balaenoptera acutorostrata scammoni brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+506 XP_007181053.1 brain-derived neurotrophic factor isoform X1 [Balaenoptera acutorostrata scammoni]
+-- Match: XM_007180991.1 PREDICTED: Balaenoptera acutorostrata scammoni brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+507 XP_006068069.1 brain-derived neurotrophic factor [Bubalus bubalis]
+-- Match: XM_006068006.2 PREDICTED: Bubalus bubalis brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+508 XP_006068068.1 brain-derived neurotrophic factor [Bubalus bubalis]
+-- Match: XM_006068007.2 PREDICTED: Bubalus bubalis brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+509 XP_007113801.1 brain-derived neurotrophic factor isoform X6 [Physeter catodon]
+-- Match: XM_007113739.2 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X18, mRNA 
+
+510 XP_007113800.1 brain-derived neurotrophic factor isoform X6 [Physeter catodon]
+-- Match: XM_007113738.2 PREDICTED: Physeter catodon brain derived neurotrophic factor (BDNF), transcript variant X16, mRNA 
+
+511 XP_006980880.1 PREDICTED: LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Peromyscus maniculatus bairdii]
+# -- NO Match -- 
+
+512 XP_006908052.1 brain-derived neurotrophic factor isoform X2 [Pteropus alecto]
+-- Match: XM_015586433.2 PREDICTED: Pteropus alecto brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+513 XP_006908051.1 brain-derived neurotrophic factor isoform X2 [Pteropus alecto]
+-- Match: XM_006907989.2 PREDICTED: Pteropus alecto brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+514 XP_006908050.1 brain-derived neurotrophic factor isoform X1 [Pteropus alecto]
+-- Match: XM_006907988.2 PREDICTED: Pteropus alecto brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+515 XP_006864916.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Chrysochloris asiatica]
+-- Match: XM_006864854.1 PREDICTED: Chrysochloris asiatica brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+516 XP_006864915.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Chrysochloris asiatica]
+-- Match: XM_006864853.1 PREDICTED: Chrysochloris asiatica brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+517 XP_006864914.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Chrysochloris asiatica]
+-- Match: XM_006864852.1 PREDICTED: Chrysochloris asiatica brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+518 XP_006864913.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Chrysochloris asiatica]
+-- Match: XM_006864851.1 PREDICTED: Chrysochloris asiatica brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+519 XP_006883779.1 PREDICTED: brain-derived neurotrophic factor isoform X5 [Elephantulus edwardii]
+-- Match: XM_006883717.1 PREDICTED: Elephantulus edwardii brain-derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+520 XP_006883778.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Elephantulus edwardii]
+-- Match: XM_006883716.1 PREDICTED: Elephantulus edwardii brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+521 XP_006883777.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Elephantulus edwardii]
+-- Match: XM_006883715.1 PREDICTED: Elephantulus edwardii brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+522 XP_006883776.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Elephantulus edwardii]
+-- Match: XM_006883714.1 PREDICTED: Elephantulus edwardii brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+523 XP_006883775.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Elephantulus edwardii]
+-- Match: XM_006883713.1 PREDICTED: Elephantulus edwardii brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+524 XP_006754013.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Myotis davidii]
+-- Match: XM_006753950.2 PREDICTED: Myotis davidii brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+525 XP_006754012.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Myotis davidii]
+-- Match: XM_006753949.2 PREDICTED: Myotis davidii brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+526 XP_006754011.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Myotis davidii]
+-- Match: XM_006753948.2 PREDICTED: Myotis davidii brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+527 XP_006234746.1 brain-derived neurotrophic factor isoform X1 [Rattus norvegicus]
+-- Match: XM_006234684.4 PREDICTED: Rattus norvegicus brain-derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+528 XP_006195145.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Camelus ferus]
+-- Match: XM_006195083.3 PREDICTED: Camelus ferus brain derived neurotrophic factor (BDNF), mRNA 
+
+529 XP_005890733.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Bos mutus]
+-- Match: XM_005890671.2 PREDICTED: Bos mutus brain-derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+530 XP_005890732.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Bos mutus]
+-- Match: XM_005890669.2 PREDICTED: Bos mutus brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+531 XP_005890731.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Bos mutus]
+-- Match: XM_005890668.2 PREDICTED: Bos mutus brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+532 XP_005890730.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Bos mutus]
+-- Match: XM_005890667.2 PREDICTED: Bos mutus brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+533 XP_005890729.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Bos mutus]
+# -- NO Match -- 
+
+534 NP_001272345.1 brain-derived neurotrophic factor isoform 2 preproprotein [Mus musculus]
+-- Match: NM_001285416.1 Mus musculus brain derived neurotrophic factor (Bdnf), transcript variant 5, mRNA 
+
+535 NP_001272346.1 brain-derived neurotrophic factor isoform 2 preproprotein [Mus musculus]
+-- Match: NM_001285417.1 Mus musculus brain derived neurotrophic factor (Bdnf), transcript variant 6, mRNA 
+
+536 NP_001272348.1 brain-derived neurotrophic factor isoform 2 preproprotein [Mus musculus]
+-- Match: NM_001285419.1 Mus musculus brain derived neurotrophic factor (Bdnf), transcript variant 8, mRNA 
+
+537 NP_001272349.1 brain-derived neurotrophic factor isoform 2 preproprotein [Mus musculus]
+-- Match: NM_001285420.1 Mus musculus brain derived neurotrophic factor (Bdnf), transcript variant 9, mRNA 
+
+538 NP_001272350.1 brain-derived neurotrophic factor isoform 2 preproprotein [Mus musculus]
+-- Match: NM_001285421.1 Mus musculus brain derived neurotrophic factor (Bdnf), transcript variant 10, mRNA 
+
+539 NP_001272351.1 brain-derived neurotrophic factor isoform 2 preproprotein [Mus musculus]
+-- Match: NM_001285422.1 Mus musculus brain derived neurotrophic factor (Bdnf), transcript variant 11, mRNA 
+
+540 NP_001272347.1 brain-derived neurotrophic factor isoform 2 preproprotein [Mus musculus]
+-- Match: NM_001285418.1 Mus musculus brain derived neurotrophic factor (Bdnf), transcript variant 7, mRNA 
+
+541 XP_005654743.1 brain-derived neurotrophic factor isoform X2 [Sus scrofa]
+-- Match: XM_013987278.2 PREDICTED: Sus scrofa brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+542 XP_005654742.1 brain-derived neurotrophic factor isoform X2 [Sus scrofa]
+-- Match: XM_005654685.3 PREDICTED: Sus scrofa brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+543 XP_005654741.1 brain-derived neurotrophic factor isoform X1 [Sus scrofa]
+-- Match: XM_005654684.3 PREDICTED: Sus scrofa brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+544 XP_005578408.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Macaca fascicularis]
+-- Match: XM_005578347.2 PREDICTED: Macaca fascicularis brain-derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+545 XP_005578407.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Macaca fascicularis]
+-- Match: XM_005578350.2 PREDICTED: Macaca fascicularis brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+546 XP_005578406.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Macaca fascicularis]
+-- Match: XM_005578349.2 PREDICTED: Macaca fascicularis brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+547 XP_005578404.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Macaca fascicularis]
+# -- NO Match -- 
+
+548 XP_005578403.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Macaca fascicularis]
+-- Match: XM_005578346.2 PREDICTED: Macaca fascicularis brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+549 XP_005401810.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Chinchilla lanigera]
+-- Match: XM_013503014.1 PREDICTED: Chinchilla lanigera brain-derived neurotrophic factor (Bdnf), transcript variant X3, mRNA 
+
+550 XP_005401809.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Chinchilla lanigera]
+-- Match: XM_005401752.2 PREDICTED: Chinchilla lanigera brain-derived neurotrophic factor (Bdnf), transcript variant X2, mRNA 
+
+551 XP_005401808.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Chinchilla lanigera]
+-- Match: XM_005401751.2 PREDICTED: Chinchilla lanigera brain-derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+552 XP_005328110.1 brain-derived neurotrophic factor isoform X3 [Ictidomys tridecemlineatus]
+-- Match: XM_005328053.4 PREDICTED: Ictidomys tridecemlineatus brain derived neurotrophic factor (Bdnf), transcript variant X5, mRNA 
+
+553 XP_005328108.1 brain-derived neurotrophic factor isoform X3 [Ictidomys tridecemlineatus]
+-- Match: XM_005328051.3 PREDICTED: Ictidomys tridecemlineatus brain derived neurotrophic factor (Bdnf), transcript variant X4, mRNA 
+
+554 XP_005328107.1 brain-derived neurotrophic factor isoform X3 [Ictidomys tridecemlineatus]
+-- Match: XM_005328049.3 PREDICTED: Ictidomys tridecemlineatus brain derived neurotrophic factor (Bdnf), transcript variant X2, mRNA 
+
+555 XP_005328106.1 brain-derived neurotrophic factor isoform X2 [Ictidomys tridecemlineatus]
+# -- NO Match -- 
+
+556 XP_005364109.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Microtus ochrogaster]
+# -- NO Match -- 
+
+557 XP_005216392.1 brain-derived neurotrophic factor isoform X2 [Bos taurus]
+-- Match: XM_005216335.4 PREDICTED: Bos taurus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+558 XP_005216391.1 brain-derived neurotrophic factor isoform X1 [Bos taurus]
+-- Match: XM_005216334.4 PREDICTED: Bos taurus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+559 XP_005064867.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Mesocricetus auratus]
+# -- NO Match -- 
+
+560 XP_003465057.2 brain-derived neurotrophic factor isoform X2 [Cavia porcellus]
+-- Match: XM_003465009.4 PREDICTED: Cavia porcellus brain derived neurotrophic factor (Bdnf), transcript variant X2, mRNA 
+
+561 XP_004851639.1 brain-derived neurotrophic factor isoform X2 [Heterocephalus glaber]
+-- Match: XM_013074564.2 PREDICTED: Heterocephalus glaber brain derived neurotrophic factor (Bdnf), transcript variant X2, mRNA 
+
+562 XP_004851638.1 brain-derived neurotrophic factor isoform X1 [Heterocephalus glaber]
+-- Match: XM_004851581.3 PREDICTED: Heterocephalus glaber brain derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+563 XP_004755948.1 PREDICTED: LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Mustela putorius furo]
+# -- NO Match -- 
+
+564 XP_004683024.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Condylura cristata]
+-- Match: XM_004682967.2 PREDICTED: Condylura cristata brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+565 XP_004683023.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Condylura cristata]
+-- Match: XM_004682966.2 PREDICTED: Condylura cristata brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+566 XP_004683022.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Condylura cristata]
+-- Match: XM_004682965.2 PREDICTED: Condylura cristata brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+567 XP_004683021.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Condylura cristata]
+-- Match: XM_004682964.2 PREDICTED: Condylura cristata brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+568 XP_004644173.1 brain-derived neurotrophic factor isoform X2 [Octodon degus]
+-- Match: XM_023704227.1 PREDICTED: Octodon degus brain derived neurotrophic factor (Bdnf), transcript variant X4, mRNA 
+
+569 XP_004644172.1 brain-derived neurotrophic factor isoform X2 [Octodon degus]
+-- Match: XM_004644116.3 PREDICTED: Octodon degus brain derived neurotrophic factor (Bdnf), transcript variant X2, mRNA 
+
+570 XP_004644171.1 brain-derived neurotrophic factor isoform X2 [Octodon degus]
+-- Match: XM_004644114.2 PREDICTED: Octodon degus brain derived neurotrophic factor (Bdnf), transcript variant X3, mRNA 
+
+571 XP_004644170.1 brain-derived neurotrophic factor isoform X1 [Octodon degus]
+-- Match: XM_004644113.2 PREDICTED: Octodon degus brain derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+572 XP_004708311.1 brain-derived neurotrophic factor isoform X2 [Echinops telfairi]
+-- Match: XM_004708254.2 PREDICTED: Echinops telfairi brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+573 XP_004708310.1 brain-derived neurotrophic factor isoform X1 [Echinops telfairi]
+-- Match: XM_004708253.2 PREDICTED: Echinops telfairi brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+574 XP_004660907.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Jaculus jaculus]
+-- Match: XM_004660850.2 PREDICTED: Jaculus jaculus brain-derived neurotrophic factor (Bdnf), transcript variant X5, mRNA 
+
+575 XP_004660906.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Jaculus jaculus]
+-- Match: XM_004660849.2 PREDICTED: Jaculus jaculus brain-derived neurotrophic factor (Bdnf), transcript variant X4, mRNA 
+
+576 XP_004660905.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Jaculus jaculus]
+-- Match: XM_004660848.2 PREDICTED: Jaculus jaculus brain-derived neurotrophic factor (Bdnf), transcript variant X3, mRNA 
+
+577 XP_004660904.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Jaculus jaculus]
+-- Match: XM_004660847.2 PREDICTED: Jaculus jaculus brain-derived neurotrophic factor (Bdnf), transcript variant X2, mRNA 
+
+578 XP_004660903.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Jaculus jaculus]
+-- Match: XM_004660846.2 PREDICTED: Jaculus jaculus brain-derived neurotrophic factor (Bdnf), transcript variant X1, mRNA 
+
+579 XP_004607917.1 PREDICTED: LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Sorex araneus]
+# -- NO Match -- 
+
+580 XP_004585500.1 brain-derived neurotrophic factor isoform X2 [Ochotona princeps]
+-- Match: XM_004585443.3 PREDICTED: Ochotona princeps brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+581 XP_004585499.1 brain-derived neurotrophic factor isoform X2 [Ochotona princeps]
+-- Match: XM_004585442.1 PREDICTED: Ochotona princeps brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+582 XP_004585498.1 brain-derived neurotrophic factor isoform X2 [Ochotona princeps]
+-- Match: XM_004585441.1 PREDICTED: Ochotona princeps brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+583 XP_004585497.1 brain-derived neurotrophic factor isoform X1 [Ochotona princeps]
+-- Match: XM_004585440.1 PREDICTED: Ochotona princeps brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+584 XP_004418602.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Ceratotherium simum simum]
+-- Match: XM_014783686.1 PREDICTED: Ceratotherium simum simum brain-derived neurotrophic factor (LOC101398458), transcript variant X3, mRNA 
+
+585 XP_004418600.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Ceratotherium simum simum]
+-- Match: XM_004418542.2 PREDICTED: Ceratotherium simum simum brain-derived neurotrophic factor (LOC101398458), transcript variant X1, mRNA 
+
+586 XP_004418599.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Ceratotherium simum simum]
+# -- NO Match -- 
+
+587 XP_004408713.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Odobenus rosmarus divergens]
+-- Match: XM_004408654.2 PREDICTED: Odobenus rosmarus divergens brain-derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+588 XP_004408712.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Odobenus rosmarus divergens]
+-- Match: XM_004408656.1 PREDICTED: Odobenus rosmarus divergens brain-derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+589 XP_004408711.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Odobenus rosmarus divergens]
+-- Match: XM_004408655.1 PREDICTED: Odobenus rosmarus divergens brain-derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+590 XP_004408710.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Odobenus rosmarus divergens]
+-- Match: XM_004408653.1 PREDICTED: Odobenus rosmarus divergens brain-derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+591 XP_004369795.1 brain-derived neurotrophic factor isoform X2 [Trichechus manatus latirostris]
+-- Match: XM_004369735.2 PREDICTED: Trichechus manatus latirostris brain derived neurotrophic factor (LOC101350169), transcript variant X2, mRNA 
+
+592 XP_004369793.1 brain-derived neurotrophic factor isoform X2 [Trichechus manatus latirostris]
+-- Match: XM_004369738.1 PREDICTED: Trichechus manatus latirostris brain derived neurotrophic factor (LOC101350169), transcript variant X5, mRNA 
+
+593 XP_004369792.1 brain-derived neurotrophic factor isoform X2 [Trichechus manatus latirostris]
+-- Match: XM_004369736.1 PREDICTED: Trichechus manatus latirostris brain derived neurotrophic factor (LOC101350169), transcript variant X4, mRNA 
+
+594 XP_004369791.1 brain-derived neurotrophic factor isoform X2 [Trichechus manatus latirostris]
+-- Match: XM_004369734.1 PREDICTED: Trichechus manatus latirostris brain derived neurotrophic factor (LOC101350169), transcript variant X3, mRNA 
+
+595 XP_004369790.1 brain-derived neurotrophic factor isoform X1 [Trichechus manatus latirostris]
+-- Match: XM_004369733.1 PREDICTED: Trichechus manatus latirostris brain derived neurotrophic factor (LOC101350169), transcript variant X1, mRNA 
+
+596 XP_004263991.1 brain-derived neurotrophic factor [Orcinus orca]
+-- Match: XM_004263941.3 PREDICTED: Orcinus orca brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+597 XP_004263990.1 brain-derived neurotrophic factor [Orcinus orca]
+-- Match: XM_004263942.3 PREDICTED: Orcinus orca brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+598 XP_004263989.1 brain-derived neurotrophic factor [Orcinus orca]
+-- Match: XM_004263943.2 PREDICTED: Orcinus orca brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+599 XP_004050905.1 brain-derived neurotrophic factor isoform X5 [Gorilla gorilla gorilla]
+-- Match: XM_004050854.3 PREDICTED: Gorilla gorilla gorilla brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA 
+
+600 XP_004050904.1 brain-derived neurotrophic factor isoform X5 [Gorilla gorilla gorilla]
+-- Match: XM_004050850.3 PREDICTED: Gorilla gorilla gorilla brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+601 XP_004050902.1 brain-derived neurotrophic factor isoform X5 [Gorilla gorilla gorilla]
+-- Match: XM_004050849.3 PREDICTED: Gorilla gorilla gorilla brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+602 XP_004050899.1 brain-derived neurotrophic factor isoform X1 [Gorilla gorilla gorilla]
+-- Match: XM_004050851.2 PREDICTED: Gorilla gorilla gorilla brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+603 XP_004050898.1 brain-derived neurotrophic factor isoform X4 [Gorilla gorilla gorilla]
+# -- NO Match -- 
+
+604 XP_004050897.1 brain-derived neurotrophic factor isoform X3 [Gorilla gorilla gorilla]
+# -- NO Match -- 
+
+605 XP_004050895.1 brain-derived neurotrophic factor isoform X5 [Gorilla gorilla gorilla]
+-- Match: XM_004050847.2 PREDICTED: Gorilla gorilla gorilla brain derived neurotrophic factor (BDNF), transcript variant X9, mRNA 
+
+606 XP_003919992.1 brain-derived neurotrophic factor isoform X2 [Saimiri boliviensis boliviensis]
+-- Match: XM_003919939.3 PREDICTED: Saimiri boliviensis boliviensis brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+607 XP_003919988.1 brain-derived neurotrophic factor isoform X2 [Saimiri boliviensis boliviensis]
+-- Match: XM_003919938.3 PREDICTED: Saimiri boliviensis boliviensis brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+608 XP_003919987.1 brain-derived neurotrophic factor isoform X2 [Saimiri boliviensis boliviensis]
+-- Match: XM_010331447.1 PREDICTED: Saimiri boliviensis boliviensis brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+609 NP_001257567.1 brain-derived neurotrophic factor isoform 3 preproprotein [Rattus norvegicus]
+-- Match: NM_001270638.1 Rattus norvegicus brain-derived neurotrophic factor (Bdnf), transcript variant 10, mRNA 
+
+610 NP_001257565.1 brain-derived neurotrophic factor isoform 3 preproprotein [Rattus norvegicus]
+-- Match: NM_001270636.1 Rattus norvegicus brain-derived neurotrophic factor (Bdnf), transcript variant 8, mRNA 
+
+611 NP_001257566.1 brain-derived neurotrophic factor isoform 3 preproprotein [Rattus norvegicus]
+-- Match: NM_001270637.1 Rattus norvegicus brain-derived neurotrophic factor (Bdnf), transcript variant 9, mRNA 
+
+612 NP_001257564.1 brain-derived neurotrophic factor isoform 3 preproprotein [Rattus norvegicus]
+-- Match: NM_001270635.1 Rattus norvegicus brain-derived neurotrophic factor (Bdnf), transcript variant 7, mRNA 
+
+613 NP_001257563.1 brain-derived neurotrophic factor isoform 3 preproprotein [Rattus norvegicus]
+-- Match: NM_001270634.1 Rattus norvegicus brain-derived neurotrophic factor (Bdnf), transcript variant 6, mRNA 
+
+614 NP_001257562.1 brain-derived neurotrophic factor isoform 3 preproprotein [Rattus norvegicus]
+-- Match: NM_001270633.1 Rattus norvegicus brain-derived neurotrophic factor (Bdnf), transcript variant 5, mRNA 
+
+615 NP_001257561.1 brain-derived neurotrophic factor isoform 3 preproprotein [Rattus norvegicus]
+-- Match: NM_001270632.1 Rattus norvegicus brain-derived neurotrophic factor (Bdnf), transcript variant 4, mRNA 
+
+616 NP_001257560.1 brain-derived neurotrophic factor isoform 3 preproprotein [Rattus norvegicus]
+-- Match: NM_001270631.1 Rattus norvegicus brain-derived neurotrophic factor (Bdnf), transcript variant 3, mRNA 
+
+617 NP_036645.2 brain-derived neurotrophic factor isoform 2 preproprotein [Rattus norvegicus]
+-- Match: NM_012513.4 Rattus norvegicus brain-derived neurotrophic factor (Bdnf), transcript variant 2, mRNA 
+
+618 NP_001257559.1 brain-derived neurotrophic factor isoform 1 [Rattus norvegicus]
+-- Match: NM_001270630.1 Rattus norvegicus brain-derived neurotrophic factor (Bdnf), transcript variant 1, mRNA 
+
+619 XP_003781247.1 brain-derived neurotrophic factor isoform X3 [Otolemur garnettii]
+-- Match: XM_003781199.2 PREDICTED: Otolemur garnettii brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+620 XP_003781246.1 brain-derived neurotrophic factor isoform X2 [Otolemur garnettii]
+-- Match: XM_003781198.1 PREDICTED: Otolemur garnettii brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+621 XP_003512795.1 brain-derived neurotrophic factor isoform X4 [Cricetulus griseus]
+-- Match: XM_003512747.5 PREDICTED: Cricetulus griseus brain derived neurotrophic factor (Bdnf), transcript variant X4, mRNA 
+
+622 XP_003254397.1 brain-derived neurotrophic factor isoform X2 [Nomascus leucogenys]
+-- Match: XM_003254349.2 PREDICTED: Nomascus leucogenys brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+623 XP_003254396.1 brain-derived neurotrophic factor isoform X4 [Nomascus leucogenys]
+-- Match: XM_030829513.1 PREDICTED: Nomascus leucogenys brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA 
+
+624 XP_003254395.1 brain-derived neurotrophic factor isoform X1 [Nomascus leucogenys]
+-- Match: XM_003254347.2 PREDICTED: Nomascus leucogenys brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+625 XP_003254394.1 brain-derived neurotrophic factor isoform X3 [Nomascus leucogenys]
+-- Match: XM_003254346.2 PREDICTED: Nomascus leucogenys brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA 
+
+626 XP_002821977.1 brain-derived neurotrophic factor isoform X1 [Pongo abelii]
+-- Match: XM_002821931.2 PREDICTED: Pongo abelii brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+627 XP_002755198.1 brain-derived neurotrophic factor isoform X2 [Callithrix jacchus]
+-- Match: XM_002755152.4 PREDICTED: Callithrix jacchus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA 
+
+628 NP_001137288.1 brain-derived neurotrophic factor isoform a preproprotein [Homo sapiens]
+-- Match: NM_170734.4 Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant 6, mRNA 
+
+629 NP_001137286.1 brain-derived neurotrophic factor isoform a preproprotein [Homo sapiens]
+-- Match: NM_001143809.2 Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant 17, mRNA 
+
+630 NP_001137285.1 brain-derived neurotrophic factor isoform a preproprotein [Homo sapiens]
+-- Match: NM_001143812.2 Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant 12, mRNA 
+
+631 NP_001137284.1 brain-derived neurotrophic factor isoform a preproprotein [Homo sapiens]
+-- Match: NM_001143811.2 Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant 11, mRNA 
+
+632 NP_001137283.1 brain-derived neurotrophic factor isoform a preproprotein [Homo sapiens]
+-- Match: NM_170733.4 Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant 5, mRNA 
+
+633 NP_001137282.1 brain-derived neurotrophic factor isoform e [Homo sapiens]
+-- Match: XM_011520280.2 PREDICTED: Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA 
+
+634 NP_001137281.1 brain-derived neurotrophic factor isoform d [Homo sapiens]
+# -- NO Match -- 
+
+635 NP_001137280.1 brain-derived neurotrophic factor isoform a preproprotein [Homo sapiens]
+-- Match: NM_001143816.2 Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant 16, mRNA 
+
+636 NP_001137279.1 brain-derived neurotrophic factor isoform a preproprotein [Homo sapiens]
+-- Match: NM_170735.6 Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant 1, mRNA 
+
+637 NP_001137278.1 brain-derived neurotrophic factor isoform a preproprotein [Homo sapiens]
+-- Match: NM_001143808.2 Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant 10, mRNA 
+
+638 NP_001137277.1 brain-derived neurotrophic factor isoform a preproprotein [Homo sapiens]
+-- Match: NM_001143814.2 Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant 14, mRNA 
+
+639 NP_001075256.1 brain-derived neurotrophic factor precursor [Equus caballus]
+-- Match: NM_001081787.1 Equus caballus brain derived neurotrophic factor (BDNF), mRNA 
+
+640 NP_031566.4 brain-derived neurotrophic factor isoform 1 precursor [Mus musculus]
+-- Match: NM_007540.4 Mus musculus brain derived neurotrophic factor (Bdnf), transcript variant 1, mRNA 
+
+641 NP_001041606.1 brain-derived neurotrophic factor isoform 2 preproprotein [Mus musculus]
+-- Match: NM_001048141.1 Mus musculus brain derived neurotrophic factor (Bdnf), transcript variant 3, mRNA 
+
+642 NP_001041607.1 brain-derived neurotrophic factor isoform 2 preproprotein [Mus musculus]
+-- Match: NM_001048142.1 Mus musculus brain derived neurotrophic factor (Bdnf), transcript variant 4, mRNA 
+
+643 NP_001041604.1 brain-derived neurotrophic factor isoform 2 preproprotein [Mus musculus]
+-- Match: NM_001048139.1 Mus musculus brain derived neurotrophic factor (Bdnf), transcript variant 2, mRNA 
+
+644 NP_001040072.1 brain-derived neurotrophic factor precursor [Bos taurus]
+-- Match: NM_001046607.2 Bos taurus brain derived neurotrophic factor (BDNF), mRNA 
+
+645 NP_001012443.1 brain-derived neurotrophic factor precursor [Pan troglodytes]
+-- Match: NM_001012441.1 Pan troglodytes brain derived neurotrophic factor (BDNF), mRNA 
+
+646 NP_001009828.1 brain-derived neurotrophic factor precursor [Felis catus]
+-- Match: NM_001009828.1 Felis catus brain derived neurotrophic factor (BDNF), mRNA 
+
+647 NP_001002975.1 brain-derived neurotrophic factor precursor [Canis lupus familiaris]
+-- Match: NM_001002975.1 Canis lupus familiaris brain derived neurotrophic factor (BDNF), mRNA 
+
+648 NP_999424.1 brain-derived neurotrophic factor precursor [Sus scrofa]
+-- Match: NM_214259.2 Sus scrofa brain derived neurotrophic factor (BDNF), mRNA 
+
+649 NP_001700.2 brain-derived neurotrophic factor isoform a preproprotein [Homo sapiens]
+-- Match: NM_001143807.2 Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant 9, mRNA 
+
+650 NP_733931.1 brain-derived neurotrophic factor isoform a preproprotein [Homo sapiens]
+-- Match: NM_170731.5 Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant 3, mRNA 
+
+651 NP_733930.1 brain-derived neurotrophic factor isoform c [Homo sapiens]
+# -- NO Match -- 
+
+652 NP_733929.1 brain-derived neurotrophic factor isoform a preproprotein [Homo sapiens]
+-- Match: NM_001143813.2 Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant 13, mRNA 
+
+653 NP_733928.1 brain-derived neurotrophic factor isoform a preproprotein [Homo sapiens]
+-- Match: NM_001709.5 Homo sapiens brain derived neurotrophic factor (BDNF), transcript variant 4, mRNA 
+
+654 NP_733927.1 brain-derived neurotrophic factor isoform b precursor [Homo sapiens]
+# -- NO Match -- 
+
+--- The following had no matches
+Total: 29
+XP_036076939.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Rousettus aegyptiacus]
+XP_036040876.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Onychomys torridus]
+XP_034352200.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Arvicanthis niloticus]
+XP_032737137.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Lontra canadensis]
+XP_032214651.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Mustela erminea]
+XP_028622754.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Grammomys surdaster]
+XP_026928761.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Acinonyx jubatus]
+XP_025784820.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Puma concolor]
+XP_023406540.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Loxodonta africana]
+XP_022363282.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Enhydra lutris kenyoni]
+XP_019312122.1 PREDICTED: LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Panthera pardus]
+XP_017201122.1 PREDICTED: LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Oryctolagus cuniculus]
+XP_011360867.1 brain-derived neurotrophic factor isoform X1 [Pteropus vampyrus]
+XP_007497260.1 PREDICTED: brain-derived neurotrophic factor isoform X3 [Monodelphis domestica]
+XP_007497259.1 PREDICTED: brain-derived neurotrophic factor isoform X2 [Monodelphis domestica]
+XP_006980880.1 PREDICTED: LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Peromyscus maniculatus bairdii]
+XP_005890729.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Bos mutus]
+XP_005578404.1 PREDICTED: brain-derived neurotrophic factor isoform X4 [Macaca fascicularis]
+XP_005328106.1 brain-derived neurotrophic factor isoform X2 [Ictidomys tridecemlineatus]
+XP_005364109.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Microtus ochrogaster]
+XP_005064867.1 LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Mesocricetus auratus]
+XP_004755948.1 PREDICTED: LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Mustela putorius furo]
+XP_004607917.1 PREDICTED: LOW QUALITY PROTEIN: brain-derived neurotrophic factor [Sorex araneus]
+XP_004418599.1 PREDICTED: brain-derived neurotrophic factor isoform X1 [Ceratotherium simum simum]
+XP_004050898.1 brain-derived neurotrophic factor isoform X4 [Gorilla gorilla gorilla]
+XP_004050897.1 brain-derived neurotrophic factor isoform X3 [Gorilla gorilla gorilla]
+NP_001137281.1 brain-derived neurotrophic factor isoform d [Homo sapiens]
+NP_733930.1 brain-derived neurotrophic factor isoform c [Homo sapiens]
+NP_733927.1 brain-derived neurotrophic factor isoform b precursor [Homo sapiens]
